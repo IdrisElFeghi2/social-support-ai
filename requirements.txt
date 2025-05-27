@@ -1,0 +1,14 @@
+streamlit
+langchain
+scikit-learn
+pymupdf
+pdfplumber
+qdrant-client
+tesserocr
+pandas
+numpy
+openai
+fastapi
+uvicorn
+langfuse
+crewai
