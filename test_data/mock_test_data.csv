@@ -1,0 +1,801 @@
+﻿full_name,gender,emirates_id,age,nationality,name_in_bank,name_in_resume,employment_status,family_size,assets,liabilities,credit_score,eligibility_decision,enablement_recommendation
+منيرة العنزي,1,784-7661-4785508-5,78,1,لطيفة الأنصاري,أحمد السويدي,0,0,1,0,1,Reject,"KYC verification, Retirement financial assistance"
+يوسف الهاشمي,0,784-1427-5540786-3,52,1,راشد المهيري,سامي القاسمي,0,1,1,1,1,Approve,"Job matching / training, KYC verification"
+دلال العنزي,1,784-5677-8440655-4,24,1,جاسم الكتبي,سليمان العلي,0,0,1,1,1,Soft Decline,"Job matching / training, KYC verification"
+محمد المهيري,0,784-3509-3603851-0,30,1,علي الأنصاري,عهد الشامسي,0,0,1,0,1,Soft Decline,"Job matching / training, KYC verification"
+إبراهيم الدوسري,0,784-1047-5869299-1,23,1,نجلاء الكتبي,أروى الأنصاري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+فاطمة العنزي,1,784-9240-4763130-7,28,1,فاطمة النعيمي,عائشة العلي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+لطيفة الكتبي,1,784-3052-2838459-9,35,1,هند التميمي,سعيد الشيخ,1,0,1,1,1,Soft Decline,KYC verification
+عبير الظاهري,1,784-9658-5893347-9,42,1,أحمد الحربي,زينب الحمادي,0,0,1,0,1,Soft Decline,"Job matching / training, KYC verification"
+أمينة العلي,1,784-4453-5535053-2,35,0,طارق القاسمي,عبدالله الهاشمي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling, KYC verification"
+ريما النعيمي,1,784-8772-6359807-7,57,1,نجلاء الهاجري,عمر الزيدي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+عمر الشامسي,0,784-2784-9322733-6,57,1,ريما الحربي,سامي الدوسري,1,1,1,0,0,Soft Decline,"Financial counseling, KYC verification"
+عبير الدوسري,1,784-5183-9139122-1,36,1,أمينة الشيخ,ريما العنزي,0,1,0,1,1,Approve,"Job matching / training, KYC verification"
+مازن الدوسري,0,784-6126-5349031-5,47,1,عمر العلي,هند العنزي,0,1,0,0,1,Approve,"Job matching / training, KYC verification"
+نجلاء التميمي,1,784-4251-3938345-6,46,1,إبراهيم المهيري,خالد العنزي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+هند العنزي,1,784-3154-2835488-6,26,1,جاسم العلي,أروى العنزي,0,0,0,0,1,Soft Decline,"Job matching / training, KYC verification"
+ليلى العنزي,1,784-9589-6215403-3,57,1,عبدالرحمن الهاشمي,سعيد الهاجري,1,1,0,1,1,Approve,KYC verification
+سامي العلي,0,784-8528-6128023-4,39,1,نورة الدوسري,إبراهيم الشيخ,0,0,0,0,1,Soft Decline,"Job matching / training, KYC verification"
+طارق الدوسري,0,784-4170-4698840-5,27,1,بدر الدوسري,ليلى الأنصاري,0,1,1,0,1,Soft Decline,"Job matching / training, KYC verification"
+أنور الحربي,0,784-2817-6338122-7,23,1,بدر الشامسي,منيرة التميمي,1,1,0,0,1,Soft Decline,KYC verification
+خديجة العنزي,1,784-2299-9171604-7,39,1,بدر الكتبي,محمد السويدي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+دلال القاسمي,1,784-7566-8246131-4,29,1,عمر الرشيدي,دلال القاسمي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+سارة الدوسري,1,784-3244-6141737-6,24,1,سارة السويدي,سارة الدوسري,0,0,0,1,1,Approve,"Job matching / training, KYC verification"
+سعيد القاسمي,0,784-6717-5754606-0,78,1,منيرة الشيخ,سعيد القاسمي,1,1,1,0,0,Strong Approve,"Financial counseling, KYC verification, Retirement financial assistance"
+فاطمة النعيمي,1,784-5837-1030747-1,28,1,جاسم السويدي,فاطمة النعيمي,1,0,1,0,1,Reject,KYC verification
+بدر الظاهري,0,784-7177-8816874-0,33,1,شيماء الحمادي,بدر الظاهري,1,1,1,0,1,Soft Decline,KYC verification
+ريما الظاهري,1,784-6110-4469227-7,35,1,عبير الهاشمي,ريما الظاهري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+محمد الشامسي,0,784-7224-1127861-9,36,1,طارق التميمي,محمد الشامسي,0,1,1,0,1,Soft Decline,"Job matching / training, KYC verification"
+لطيفة الشامسي,1,784-1257-5820682-0,27,1,عمر الهاشمي,لطيفة الشامسي,0,0,1,0,1,Soft Decline,"Job matching / training, KYC verification"
+عائشة الشيخ,1,784-7164-1762257-2,23,1,محمد النعيمي,عائشة الشيخ,0,1,1,1,1,Approve,"Job matching / training, KYC verification"
+عبير الهاشمي,1,784-6401-9618853-2,39,1,سليمان النعيمي,عبير الهاشمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling, KYC verification"
+لطيفة السويدي,1,784-4516-2544969-2,79,1,لطيفة السويدي,لطيفة السويدي,1,0,1,0,1,Reject,Retirement financial assistance
+عائشة المهيري,1,784-8412-4183223-6,19,1,عائشة المهيري,عائشة المهيري,0,0,1,0,1,Soft Decline,Job matching / training
+سارة الشامسي,1,784-3661-2683385-7,48,1,سارة الشامسي,سارة الشامسي,1,1,1,0,0,Soft Decline,Financial counseling
+جميلة العلي,1,784-3449-1532367-8,56,1,جميلة العلي,جميلة العلي,1,0,0,1,1,Soft Decline,No recommendation
+سعود الظاهري,0,784-1751-6026766-4,56,1,سعود الظاهري,سعود الظاهري,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+سامي المنصوري,0,784-8124-1990685-7,41,1,سامي المنصوري,سامي المنصوري,1,1,1,1,0,Approve,Financial counseling
+أمينة الحربي,1,784-8786-2417949-4,67,1,أمينة الحربي,أمينة الحربي,0,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+نورة الشيخ,1,784-7293-2542530-9,31,1,نورة الشيخ,نورة الشيخ,1,0,1,0,0,Soft Decline,Financial counseling
+خديجة القاسمي,1,784-3379-8140473-2,46,1,خديجة القاسمي,خديجة القاسمي,1,1,1,1,1,Soft Decline,No recommendation
+منيرة المهيري,1,784-4577-8265458-2,37,1,منيرة المهيري,منيرة المهيري,1,0,1,0,1,Reject,No recommendation
+عهد العنزي,1,784-4525-8151553-9,27,1,عهد العنزي,عهد العنزي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+محمد الأنصاري,0,784-9675-9606351-6,52,1,محمد الأنصاري,محمد الأنصاري,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+منيرة الحربي,1,784-9342-7614222-1,21,1,منيرة الحربي,منيرة الحربي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+عهد الحمادي,1,784-5194-6360484-2,29,1,عهد الحمادي,عهد الحمادي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+خالد الحمادي,0,784-6864-8738402-1,18,1,خالد الحمادي,خالد الحمادي,0,0,1,1,1,Soft Decline,Job matching / training
+عبير الهاجري,1,784-9222-7148451-0,18,1,عبير الهاجري,عبير الهاجري,1,1,0,1,0,Approve,Financial counseling
+مريم الظاهري,1,784-4215-6198612-2,57,1,مريم الظاهري,مريم الظاهري,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+إبراهيم الدوسري,0,784-4886-7771246-6,26,1,إبراهيم الدوسري,إبراهيم الدوسري,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+عهد الهاشمي,1,784-9029-3926137-7,63,1,عهد الهاشمي,عهد الهاشمي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+أروى الشامسي,1,784-5380-5924016-5,43,1,أروى الشامسي,أروى الشامسي,0,1,0,1,1,Approve,Job matching / training
+أحمد العنزي,0,784-2305-2398568-2,56,1,أحمد العنزي,أحمد العنزي,0,1,1,1,1,Approve,Job matching / training
+ليلى المنصوري,1,784-1990-5543325-7,48,1,ليلى المنصوري,ليلى المنصوري,1,1,0,0,1,Soft Decline,No recommendation
+بدر الحربي,0,784-2937-1111137-8,38,1,بدر الحربي,بدر الحربي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+منيرة الحربي,1,784-3190-4768980-2,72,0,منيرة الحربي,منيرة الحربي,0,0,1,1,1,Reject,No recommendation
+نورة العنزي,1,784-3197-7513651-5,23,1,نورة العنزي,نورة العنزي,1,0,1,0,1,Reject,No recommendation
+عبدالرحمن الرشيدي,0,784-4018-6041346-8,26,1,عبدالرحمن الرشيدي,عبدالرحمن الرشيدي,1,1,0,1,0,Approve,Financial counseling
+طارق الهاجري,0,784-3024-8746394-5,58,1,طارق الهاجري,طارق الهاجري,0,0,1,1,1,Soft Decline,Job matching / training
+نجلاء الدوسري,1,784-1452-8508152-5,58,1,نجلاء الدوسري,نجلاء الدوسري,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+فاطمة الحربي,1,784-5496-7393788-8,34,1,فاطمة الحربي,فاطمة الحربي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+لطيفة العنزي,1,784-2057-8267639-5,69,1,لطيفة العنزي,لطيفة العنزي,1,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سعود القاسمي,0,784-7845-4418608-2,26,1,سعود القاسمي,سعود القاسمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+خالد الأنصاري,0,784-6756-4743414-8,37,1,خالد الأنصاري,خالد الأنصاري,1,1,1,0,0,Soft Decline,Financial counseling
+محمد الحربي,0,784-8796-8609036-8,54,1,محمد الحربي,محمد الحربي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+سليمان الكتبي,0,784-3822-9783528-0,29,1,سليمان الكتبي,سليمان الكتبي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+ليلى القاسمي,1,784-1419-8787821-7,71,1,ليلى القاسمي,ليلى القاسمي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+عبدالرحمن الدوسري,0,784-7739-8481305-7,37,1,عبدالرحمن الدوسري,عبدالرحمن الدوسري,1,0,1,0,0,Soft Decline,Financial counseling
+خديجة الظاهري,1,784-3486-4616931-5,65,1,خديجة الظاهري,خديجة الظاهري,0,1,1,0,1,Reject,Retirement financial assistance
+علي الزيدي,0,784-5599-9614935-8,27,1,علي الزيدي,علي الزيدي,1,1,0,0,0,Approve,Financial counseling
+بدر السويدي,0,784-5749-4499041-6,47,1,بدر السويدي,بدر السويدي,1,0,1,1,0,Soft Decline,Financial counseling
+منيرة الزيدي,1,784-4046-1420365-3,52,1,منيرة الزيدي,منيرة الزيدي,1,0,0,0,1,Soft Decline,No recommendation
+عبير العنزي,1,784-4389-3676494-7,34,1,عبير العنزي,عبير العنزي,1,0,0,0,1,Soft Decline,No recommendation
+نجلاء السويدي,1,784-1118-7444850-6,72,1,نجلاء السويدي,نجلاء السويدي,1,1,0,0,1,Strong Approve,Retirement financial assistance
+بدر الكتبي,0,784-5648-3276711-2,49,1,بدر الكتبي,بدر الكتبي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+دلال الشيخ,1,784-1138-1644106-4,42,1,دلال الشيخ,دلال الشيخ,1,0,1,1,1,Soft Decline,No recommendation
+أحمد النعيمي,0,784-9750-3722750-1,62,1,أحمد النعيمي,أحمد النعيمي,0,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سعود الهاجري,0,784-8188-6725738-8,28,1,سعود الهاجري,سعود الهاجري,1,0,1,0,1,Reject,No recommendation
+أنور الحربي,0,784-6323-7539087-7,44,1,أنور الحربي,أنور الحربي,1,1,0,1,0,Approve,Financial counseling
+لطيفة السويدي,1,784-3350-8736200-1,60,1,لطيفة السويدي,لطيفة السويدي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+شيماء الحمادي,1,784-8123-5978635-1,64,1,شيماء الحمادي,شيماء الحمادي,0,0,0,0,1,Strong Approve,Retirement financial assistance
+خالد الظاهري,0,784-5632-9566924-1,67,1,خالد الظاهري,خالد الظاهري,0,0,0,1,1,Strong Approve,Retirement financial assistance
+خالد الأنصاري,0,784-7482-7502569-4,48,1,خالد الأنصاري,خالد الأنصاري,0,1,0,1,1,Approve,Job matching / training
+أمينة العنزي,1,784-7819-9714616-9,18,1,أمينة العنزي,أمينة العنزي,1,1,1,0,0,Soft Decline,Financial counseling
+عائشة المهيري,1,784-7497-1752132-5,28,1,عائشة المهيري,عائشة المهيري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+إبراهيم الظاهري,0,784-6766-9730740-2,41,1,إبراهيم الظاهري,إبراهيم الظاهري,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+فاطمة الزيدي,1,784-4740-2282046-1,19,1,فاطمة الزيدي,فاطمة الزيدي,1,0,1,1,1,Soft Decline,No recommendation
+عائشة الرشيدي,1,784-9257-1465693-9,20,1,عائشة الرشيدي,عائشة الرشيدي,1,1,0,1,0,Approve,Financial counseling
+نجلاء الهاشمي,1,784-5244-7165813-4,55,1,نجلاء الهاشمي,نجلاء الهاشمي,1,0,1,1,1,Soft Decline,No recommendation
+زينب الظاهري,1,784-5766-2198652-5,22,1,زينب الظاهري,زينب الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+زينب الكتبي,1,784-4842-1228815-3,55,1,زينب الكتبي,زينب الكتبي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+بدر الدوسري,0,784-6791-6464768-3,54,1,بدر الدوسري,بدر الدوسري,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+شيماء الظاهري,1,784-9914-8577018-6,48,1,شيماء الظاهري,شيماء الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+عهد الأنصاري,1,784-6250-9420573-3,36,1,عهد الأنصاري,عهد الأنصاري,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+جاسم الحمادي,0,784-5851-4244898-3,35,1,جاسم الحمادي,جاسم الحمادي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+شيماء الحمادي,1,784-3797-3211930-2,78,1,شيماء الحمادي,شيماء الحمادي,0,0,0,1,1,Strong Approve,Retirement financial assistance
+سليمان النعيمي,0,784-1494-5346521-8,30,1,سليمان النعيمي,سليمان النعيمي,0,0,1,1,1,Soft Decline,Job matching / training
+منيرة العنزي,1,784-9973-4921380-6,22,1,منيرة العنزي,منيرة العنزي,1,1,0,1,1,Approve,No recommendation
+سعيد السويدي,0,784-5126-6637222-6,69,1,سعيد السويدي,سعيد السويدي,0,0,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+طارق القاسمي,0,784-9079-8597095-8,29,1,طارق القاسمي,طارق القاسمي,1,1,1,1,0,Approve,Financial counseling
+أمينة الأنصاري,1,784-8577-5131536-2,28,1,أمينة الأنصاري,أمينة الأنصاري,0,1,0,1,1,Approve,Job matching / training
+علي العنزي,0,784-4781-6274849-7,31,1,علي العنزي,علي العنزي,1,1,1,0,0,Soft Decline,Financial counseling
+أروى الكتبي,1,784-2728-9893185-3,30,1,أروى الكتبي,أروى الكتبي,0,1,1,1,1,Approve,Job matching / training
+نورة العلي,1,784-1762-4372594-2,37,1,نورة العلي,نورة العلي,0,1,0,0,1,Approve,Job matching / training
+عمر الشامسي,0,784-9532-2190041-9,31,1,عمر الشامسي,عمر الشامسي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+راشد الأنصاري,0,784-2791-3321429-1,19,1,راشد الأنصاري,راشد الأنصاري,1,0,1,0,0,Soft Decline,Financial counseling
+هند الكتبي,1,784-9838-3758608-7,58,1,هند الكتبي,هند الكتبي,0,0,0,1,1,Approve,Job matching / training
+سامي العلي,0,784-1778-5869073-6,77,1,سامي العلي,سامي العلي,0,1,0,0,1,Strong Approve,Retirement financial assistance
+هند الشامسي,1,784-7978-3488124-1,69,1,هند الشامسي,هند الشامسي,0,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+علي المهيري,0,784-5460-9531101-9,46,1,علي المهيري,علي المهيري,1,1,0,0,0,Approve,Financial counseling
+أنور العنزي,0,784-2058-1404942-9,62,1,أنور العنزي,أنور العنزي,0,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سعيد الحمادي,0,784-3903-2379309-4,68,1,سعيد الحمادي,سعيد الحمادي,1,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سعيد القاسمي,0,784-2311-1093953-2,47,1,سعيد القاسمي,سعيد القاسمي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+عائشة الدوسري,1,784-2750-7236324-8,28,1,عائشة الدوسري,عائشة الدوسري,1,1,0,0,0,Approve,Financial counseling
+إبراهيم النعيمي,0,784-2014-5569181-6,40,1,إبراهيم النعيمي,إبراهيم النعيمي,1,1,1,0,1,Soft Decline,No recommendation
+شيماء الشامسي,1,784-8199-8177454-1,50,1,شيماء الشامسي,شيماء الشامسي,1,0,0,1,0,Approve,Financial counseling
+سامي القاسمي,0,784-2960-4744878-0,48,1,سامي القاسمي,سامي القاسمي,1,1,1,1,0,Approve,Financial counseling
+زينب النعيمي,1,784-7232-5576107-0,48,1,زينب النعيمي,زينب النعيمي,0,1,1,0,1,Soft Decline,Job matching / training
+نجلاء النعيمي,1,784-9761-2063219-1,23,1,نجلاء النعيمي,نجلاء النعيمي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+لطيفة المنصوري,1,784-5078-8657484-6,18,1,لطيفة المنصوري,لطيفة المنصوري,1,0,1,1,1,Soft Decline,No recommendation
+عائشة الأنصاري,1,784-1774-1779279-3,25,1,عائشة الأنصاري,عائشة الأنصاري,1,0,1,0,1,Reject,No recommendation
+لطيفة الحمادي,1,784-6757-4608743-2,30,1,لطيفة الحمادي,لطيفة الحمادي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+سعيد الهاشمي,0,784-3212-4275395-1,54,1,سعيد الهاشمي,سعيد الهاشمي,1,1,0,1,1,Approve,No recommendation
+سليمان المنصوري,0,784-8502-2348809-0,46,1,سليمان المنصوري,سليمان المنصوري,1,0,0,1,0,Approve,Financial counseling
+خالد الكتبي,0,784-5215-1449762-8,27,1,خالد الكتبي,خالد الكتبي,1,1,1,1,0,Approve,Financial counseling
+جاسم الحربي,0,784-9940-3951934-5,31,1,جاسم الحربي,جاسم الحربي,1,0,0,1,0,Approve,Financial counseling
+أحمد الهاجري,0,784-4179-6230396-2,31,1,أحمد الهاجري,أحمد الهاجري,1,1,1,0,1,Soft Decline,No recommendation
+لطيفة المنصوري,1,784-8004-9844449-5,18,1,لطيفة المنصوري,لطيفة المنصوري,1,0,1,0,0,Soft Decline,Financial counseling
+ليلى العلي,1,784-2551-7844839-0,33,1,ليلى العلي,ليلى العلي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+أروى الهاجري,1,784-3528-7600740-4,77,1,أروى الهاجري,أروى الهاجري,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عبدالرحمن القاسمي,0,784-7584-5095905-5,75,1,عبدالرحمن القاسمي,عبدالرحمن القاسمي,0,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+خالد النعيمي,0,784-2072-4399356-4,75,1,خالد النعيمي,خالد النعيمي,0,1,1,1,1,Reject,Retirement financial assistance
+أنور الهاشمي,0,784-8125-6954549-0,35,1,أنور الهاشمي,أنور الهاشمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+أمينة الرشيدي,1,784-7919-3496019-9,41,1,أمينة الرشيدي,أمينة الرشيدي,0,1,1,0,1,Soft Decline,Job matching / training
+عمر العلي,0,784-1448-7086931-3,77,1,عمر العلي,عمر العلي,1,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+طارق الهاجري,0,784-8389-3119512-9,26,1,طارق الهاجري,طارق الهاجري,1,1,0,0,0,Approve,Financial counseling
+ليلى الرشيدي,1,784-9734-4554367-5,44,1,ليلى الرشيدي,ليلى الرشيدي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+علي القاسمي,0,784-3426-9076079-9,65,1,علي القاسمي,علي القاسمي,0,1,0,0,1,Strong Approve,Retirement financial assistance
+منيرة الأنصاري,1,784-5209-9809661-4,25,1,منيرة الأنصاري,منيرة الأنصاري,0,0,1,0,1,Soft Decline,Job matching / training
+بدر الأنصاري,0,784-6416-5042971-4,30,1,بدر الأنصاري,بدر الأنصاري,1,0,0,1,0,Approve,Financial counseling
+عهد الهاجري,1,784-4475-3647556-5,64,1,عهد الهاجري,عهد الهاجري,1,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عبير الرشيدي,1,784-7030-2015294-5,52,1,عبير الرشيدي,عبير الرشيدي,1,1,1,1,1,Soft Decline,No recommendation
+خالد الحربي,0,784-2522-6081964-6,41,1,خالد الحربي,خالد الحربي,1,1,0,1,1,Approve,No recommendation
+علي السويدي,0,784-4232-4613130-0,65,1,علي السويدي,علي السويدي,0,0,0,1,1,Strong Approve,Retirement financial assistance
+أروى الهاجري,1,784-9704-8103044-2,37,1,أروى الهاجري,أروى الهاجري,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+فاطمة الشامسي,1,784-4498-7216819-2,43,1,فاطمة الشامسي,فاطمة الشامسي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+نجلاء الحمادي,1,784-8217-8289867-5,42,1,نجلاء الحمادي,نجلاء الحمادي,0,0,0,1,1,Approve,Job matching / training
+محمد الشيخ,0,784-1920-5872350-7,46,0,محمد الشيخ,محمد الشيخ,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+راشد المنصوري,0,784-3776-3526674-6,59,1,راشد المنصوري,راشد المنصوري,1,1,1,0,0,Soft Decline,Financial counseling
+هند الدوسري,1,784-6849-1853651-7,36,1,هند الدوسري,هند الدوسري,1,1,1,1,0,Approve,Financial counseling
+ليلى الظاهري,1,784-1070-4137513-3,25,1,ليلى الظاهري,ليلى الظاهري,1,1,0,0,1,Soft Decline,No recommendation
+فهد الأنصاري,0,784-7951-9126569-3,24,1,فهد الأنصاري,فهد الأنصاري,1,1,0,0,1,Soft Decline,No recommendation
+سعود الكتبي,0,784-1954-1788562-8,58,1,سعود الكتبي,سعود الكتبي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+إبراهيم الزيدي,0,784-2052-2943121-0,22,1,إبراهيم الزيدي,إبراهيم الزيدي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+هند التميمي,1,784-8270-6910166-5,29,1,هند التميمي,هند التميمي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+خديجة العلي,1,784-1965-5265570-3,28,1,خديجة العلي,خديجة العلي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+علي الرشيدي,0,784-9361-8256579-2,54,1,علي الرشيدي,علي الرشيدي,1,0,1,0,1,Reject,No recommendation
+نورة المنصوري,1,784-6610-2375426-9,19,0,نورة المنصوري,نورة المنصوري,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+نورة الشيخ,1,784-4083-6446019-6,42,1,نورة الشيخ,نورة الشيخ,0,1,0,1,1,Approve,Job matching / training
+ليلى العلي,1,784-8896-5821625-1,32,1,ليلى العلي,ليلى العلي,0,0,0,0,1,Soft Decline,Job matching / training
+علي الشيخ,0,784-5521-6308844-9,68,1,علي الشيخ,علي الشيخ,1,1,1,1,1,Reject,Retirement financial assistance
+طارق الهاشمي,0,784-3847-8888003-0,37,1,طارق الهاشمي,طارق الهاشمي,0,1,0,1,1,Approve,Job matching / training
+أروى الدوسري,1,784-5333-3289647-7,22,1,أروى الدوسري,أروى الدوسري,0,0,0,0,1,Soft Decline,Job matching / training
+ليلى الرشيدي,1,784-9005-1910092-1,79,1,ليلى الرشيدي,ليلى الرشيدي,0,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+مازن العلي,0,784-2858-6819556-2,31,1,مازن العلي,مازن العلي,1,1,0,0,1,Soft Decline,No recommendation
+طارق الأنصاري,0,784-2992-6149516-0,35,1,طارق الأنصاري,طارق الأنصاري,0,0,1,0,1,Soft Decline,Job matching / training
+جميلة التميمي,1,784-3690-5452586-6,72,1,جميلة التميمي,جميلة التميمي,0,1,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سامي المنصوري,0,784-5180-1408087-0,44,1,سامي المنصوري,سامي المنصوري,0,1,1,0,1,Soft Decline,Job matching / training
+محمد العلي,0,784-9528-6867701-2,51,1,محمد العلي,محمد العلي,1,0,1,1,0,Soft Decline,Financial counseling
+أحمد العلي,0,784-8383-6433062-5,37,1,أحمد العلي,أحمد العلي,1,1,1,1,1,Soft Decline,No recommendation
+خديجة الظاهري,1,784-4394-2221258-7,26,1,خديجة الظاهري,خديجة الظاهري,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+ليلى التميمي,1,784-9311-5542380-1,44,1,ليلى التميمي,ليلى التميمي,1,1,1,1,1,Soft Decline,No recommendation
+إبراهيم الرشيدي,0,784-4979-3084966-2,23,1,إبراهيم الرشيدي,إبراهيم الرشيدي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+سارة العلي,1,784-3032-7811500-8,72,1,سارة العلي,سارة العلي,1,1,1,1,1,Reject,Retirement financial assistance
+عبدالله الحربي,0,784-9121-7298626-3,44,1,عبدالله الحربي,عبدالله الحربي,1,1,0,1,1,Approve,No recommendation
+هند المهيري,1,784-8178-4386781-5,25,1,هند المهيري,هند المهيري,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+عبدالله الهاشمي,0,784-8454-8498106-8,57,1,عبدالله الهاشمي,عبدالله الهاشمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+ريما الظاهري,1,784-3826-1482042-8,63,1,ريما الظاهري,ريما الظاهري,0,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+إبراهيم الهاشمي,0,784-7071-8270132-9,52,1,إبراهيم الهاشمي,إبراهيم الهاشمي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+سليمان السويدي,0,784-8932-7648539-1,47,1,سليمان السويدي,سليمان السويدي,0,1,1,0,1,Soft Decline,Job matching / training
+لطيفة الحمادي,1,784-6463-6433632-1,28,1,لطيفة الحمادي,لطيفة الحمادي,0,0,1,0,1,Soft Decline,Job matching / training
+دلال الدوسري,1,784-3052-8865098-1,26,1,دلال الدوسري,دلال الدوسري,1,1,1,1,0,Approve,Financial counseling
+عائشة الحمادي,1,784-6378-2069791-7,23,1,عائشة الحمادي,عائشة الحمادي,1,0,1,1,0,Soft Decline,Financial counseling
+طارق القاسمي,0,784-8056-6958268-7,78,1,طارق القاسمي,طارق القاسمي,1,1,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سليمان المهيري,0,784-1042-2873315-0,38,1,سليمان المهيري,سليمان المهيري,0,1,0,0,1,Approve,Job matching / training
+سامي الرشيدي,0,784-7876-2396277-4,61,1,سامي الرشيدي,سامي الرشيدي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+منيرة القاسمي,1,784-8342-2247186-6,77,1,منيرة القاسمي,منيرة القاسمي,1,0,1,1,1,Reject,Retirement financial assistance
+أمينة الشامسي,1,784-7316-2608357-5,18,1,أمينة الشامسي,أمينة الشامسي,0,1,1,1,1,Approve,Job matching / training
+طارق العلي,0,784-2599-3622789-9,76,1,طارق العلي,طارق العلي,0,0,1,1,1,Reject,Retirement financial assistance
+سعود الشامسي,0,784-1702-1227312-6,39,1,سعود الشامسي,سعود الشامسي,1,1,1,0,1,Soft Decline,No recommendation
+سليمان الشامسي,0,784-5260-8869382-6,36,1,سليمان الشامسي,سليمان الشامسي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+فاطمة القاسمي,1,784-1247-8145845-6,27,1,فاطمة القاسمي,فاطمة القاسمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+عمر الظاهري,0,784-3920-8334863-7,29,1,عمر الظاهري,عمر الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+سعيد الزيدي,0,784-5843-1232441-1,21,1,سعيد الزيدي,سعيد الزيدي,0,1,1,0,1,Soft Decline,Job matching / training
+أروى السويدي,1,784-4480-6561686-7,40,1,أروى السويدي,أروى السويدي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+عبدالله القاسمي,0,784-3575-2328483-9,44,1,عبدالله القاسمي,عبدالله القاسمي,0,0,0,0,1,Soft Decline,Job matching / training
+عبدالرحمن القاسمي,0,784-9855-2813408-8,79,1,عبدالرحمن القاسمي,عبدالرحمن القاسمي,1,1,0,0,1,Strong Approve,Retirement financial assistance
+سارة المنصوري,1,784-5109-9583220-0,37,1,سارة المنصوري,سارة المنصوري,1,0,1,1,0,Soft Decline,Financial counseling
+سعود القاسمي,0,784-9786-8106462-8,21,1,سعود القاسمي,سعود القاسمي,1,1,1,1,1,Soft Decline,No recommendation
+سعود العلي,0,784-9098-2348501-8,28,1,سعود العلي,سعود العلي,0,0,1,1,1,Soft Decline,Job matching / training
+يوسف القاسمي,0,784-6735-8498185-2,59,1,يوسف القاسمي,يوسف القاسمي,1,1,0,1,1,Approve,No recommendation
+عبدالرحمن الزيدي,0,784-1128-3318701-7,47,1,عبدالرحمن الزيدي,عبدالرحمن الزيدي,0,1,0,1,1,Approve,Job matching / training
+يوسف الحمادي,0,784-8602-5926448-7,34,1,يوسف الحمادي,يوسف الحمادي,1,0,0,1,0,Approve,Financial counseling
+لطيفة الكتبي,1,784-5562-4122511-2,74,1,لطيفة الكتبي,لطيفة الكتبي,0,0,1,1,1,Reject,Retirement financial assistance
+عبدالرحمن الهاجري,0,784-7888-6078878-4,19,1,عبدالرحمن الهاجري,عبدالرحمن الهاجري,1,0,1,0,1,Reject,No recommendation
+أنور الكتبي,0,784-5261-2994930-4,18,1,أنور الكتبي,أنور الكتبي,0,0,0,0,1,Soft Decline,Job matching / training
+محمد الزيدي,0,784-4608-4556619-9,48,1,محمد الزيدي,محمد الزيدي,1,0,0,0,0,Soft Decline,Financial counseling
+طارق الكتبي,0,784-3031-4957519-1,53,1,طارق الكتبي,طارق الكتبي,0,0,0,0,1,Soft Decline,Job matching / training
+فاطمة الشيخ,1,784-5886-4399126-0,20,1,فاطمة الشيخ,فاطمة الشيخ,1,0,1,1,1,Soft Decline,No recommendation
+راشد الحمادي,0,784-5962-3933245-2,42,1,راشد الحمادي,راشد الحمادي,0,1,0,0,1,Approve,Job matching / training
+سليمان الهاشمي,0,784-7575-5522409-2,50,1,سليمان الهاشمي,سليمان الهاشمي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+عائشة القاسمي,1,784-7683-7135879-2,25,1,عائشة القاسمي,عائشة القاسمي,1,0,0,0,1,Soft Decline,No recommendation
+ليلى الدوسري,1,784-3954-3510758-5,45,1,ليلى الدوسري,ليلى الدوسري,1,0,1,0,1,Reject,No recommendation
+نجلاء الهاجري,1,784-5965-5713319-8,32,1,نجلاء الهاجري,نجلاء الهاجري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+طارق الهاجري,0,784-5432-3165345-9,58,1,طارق الهاجري,طارق الهاجري,1,0,1,0,1,Reject,No recommendation
+زينب الهاجري,1,784-1547-8261584-0,43,1,زينب الهاجري,زينب الهاجري,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+عهد المهيري,1,784-4475-5293701-5,42,1,عهد المهيري,عهد المهيري,0,1,0,1,1,Approve,Job matching / training
+ريما الدوسري,1,784-9635-9746226-1,41,1,ريما الدوسري,ريما الدوسري,0,0,0,1,1,Approve,Job matching / training
+سامي التميمي,0,784-8821-4154832-7,48,1,سامي التميمي,سامي التميمي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+جميلة الدوسري,1,784-7194-1993157-4,31,1,جميلة الدوسري,جميلة الدوسري,0,1,0,1,1,Approve,Job matching / training
+عبير القاسمي,1,784-8483-1377994-6,22,1,عبير القاسمي,عبير القاسمي,1,1,1,0,0,Soft Decline,Financial counseling
+نجلاء الزيدي,1,784-7150-8371107-0,21,1,نجلاء الزيدي,نجلاء الزيدي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+عهد المهيري,1,784-2189-1319173-3,23,1,عهد المهيري,عهد المهيري,0,0,0,1,1,Approve,Job matching / training
+عبير النعيمي,1,784-5899-8745802-6,74,1,عبير النعيمي,عبير النعيمي,1,1,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+أمينة الكتبي,1,784-2901-9491051-9,74,0,أمينة الكتبي,أمينة الكتبي,1,0,1,1,1,Reject,No recommendation
+فهد المهيري,0,784-2447-6418340-7,61,1,فهد المهيري,فهد المهيري,0,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+خديجة الشيخ,1,784-4994-8868053-6,36,1,خديجة الشيخ,خديجة الشيخ,0,1,0,1,1,Approve,Job matching / training
+يوسف الكتبي,0,784-7783-1624321-2,62,1,يوسف الكتبي,يوسف الكتبي,0,0,1,0,1,Reject,Retirement financial assistance
+سليمان السويدي,0,784-6914-5383106-5,19,1,سليمان السويدي,سليمان السويدي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+أنور الكتبي,0,784-5718-6790346-2,69,1,أنور الكتبي,أنور الكتبي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+راشد الهاجري,0,784-1553-8556385-5,41,1,راشد الهاجري,راشد الهاجري,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+نجلاء النعيمي,1,784-8906-5632368-1,59,1,نجلاء النعيمي,نجلاء النعيمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+سليمان المنصوري,0,784-1990-2770358-3,58,1,سليمان المنصوري,سليمان المنصوري,1,1,1,1,1,Soft Decline,No recommendation
+سليمان القاسمي,0,784-9754-3362668-3,32,1,سليمان القاسمي,سليمان القاسمي,1,1,0,0,1,Soft Decline,No recommendation
+سارة الحربي,1,784-4096-8943792-5,44,1,سارة الحربي,سارة الحربي,1,1,1,0,0,Soft Decline,Financial counseling
+مريم الهاجري,1,784-4196-4393430-1,53,1,مريم الهاجري,مريم الهاجري,1,1,0,1,0,Approve,Financial counseling
+سليمان العنزي,0,784-8545-4256519-9,40,1,سليمان العنزي,سليمان العنزي,1,1,1,0,1,Soft Decline,No recommendation
+راشد الشيخ,0,784-1718-6909986-6,34,1,راشد الشيخ,راشد الشيخ,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+منيرة الرشيدي,1,784-1571-6020727-0,50,1,منيرة الرشيدي,منيرة الرشيدي,1,0,0,0,0,Soft Decline,Financial counseling
+سعود الشيخ,0,784-2849-7877896-0,76,1,سعود الشيخ,سعود الشيخ,0,0,0,1,1,Strong Approve,Retirement financial assistance
+أمينة النعيمي,1,784-1316-4777346-9,32,1,أمينة النعيمي,أمينة النعيمي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+ريما الحربي,1,784-4291-9595940-5,25,0,ريما الحربي,ريما الحربي,1,1,0,1,1,Approve,No recommendation
+دلال النعيمي,1,784-6758-2105867-0,58,1,دلال النعيمي,دلال النعيمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+راشد التميمي,0,784-5311-6611028-0,47,0,راشد التميمي,راشد التميمي,1,1,1,0,0,Soft Decline,Financial counseling
+نجلاء الشيخ,1,784-5081-2466381-9,45,1,نجلاء الشيخ,نجلاء الشيخ,1,0,0,1,0,Approve,Financial counseling
+عمر النعيمي,0,784-4458-1779899-6,72,1,عمر النعيمي,عمر النعيمي,1,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ريما القاسمي,1,784-5721-3015758-8,58,1,ريما القاسمي,ريما القاسمي,1,1,1,0,1,Soft Decline,No recommendation
+أمينة العنزي,1,784-4431-5312950-1,19,1,أمينة العنزي,أمينة العنزي,1,0,0,0,0,Soft Decline,Financial counseling
+منيرة العنزي,1,784-7697-6335123-2,75,1,منيرة العنزي,منيرة العنزي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+منيرة السويدي,1,784-2340-4355019-5,21,1,منيرة السويدي,منيرة السويدي,0,0,0,1,1,Approve,Job matching / training
+سامي الكتبي,0,784-3469-8992459-3,38,1,سامي الكتبي,سامي الكتبي,1,0,1,1,0,Soft Decline,Financial counseling
+سامي السويدي,0,784-8354-9849451-8,45,1,سامي السويدي,سامي السويدي,1,0,1,0,1,Reject,No recommendation
+أروى القاسمي,1,784-9541-3574741-0,63,1,أروى القاسمي,أروى القاسمي,1,0,1,0,1,Reject,Retirement financial assistance
+سعود الأنصاري,0,784-7004-9433261-4,34,1,سعود الأنصاري,سعود الأنصاري,1,1,1,0,1,Soft Decline,No recommendation
+دلال الهاجري,1,784-4606-4616980-5,55,1,دلال الهاجري,دلال الهاجري,1,1,0,1,1,Approve,No recommendation
+دلال الشامسي,1,784-5350-5871137-2,43,1,دلال الشامسي,دلال الشامسي,1,0,0,1,1,Soft Decline,No recommendation
+منيرة السويدي,1,784-5534-5552309-7,56,1,منيرة السويدي,منيرة السويدي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+مازن الأنصاري,0,784-1522-6559081-4,58,1,مازن الأنصاري,مازن الأنصاري,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+عبدالله الكتبي,0,784-5935-6146326-7,40,1,عبدالله الكتبي,عبدالله الكتبي,1,1,1,1,1,Soft Decline,No recommendation
+سليمان الزيدي,0,784-2274-5459016-3,28,1,سليمان الزيدي,سليمان الزيدي,0,1,1,0,1,Soft Decline,Job matching / training
+عبدالرحمن الشامسي,0,784-4475-9035929-6,47,1,عبدالرحمن الشامسي,عبدالرحمن الشامسي,1,1,0,0,1,Soft Decline,No recommendation
+بدر الظاهري,0,784-4719-3135984-4,21,1,بدر الظاهري,بدر الظاهري,0,1,1,1,1,Approve,Job matching / training
+شيماء الأنصاري,1,784-2712-9239024-8,33,1,شيماء الأنصاري,شيماء الأنصاري,1,0,1,1,1,Soft Decline,No recommendation
+سعيد الهاجري,0,784-8079-6294343-6,52,1,سعيد الهاجري,سعيد الهاجري,0,0,1,1,1,Soft Decline,Job matching / training
+خالد العنزي,0,784-1998-3676460-3,65,1,خالد العنزي,خالد العنزي,0,0,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سعود الظاهري,0,784-6414-4450792-3,39,1,سعود الظاهري,سعود الظاهري,0,0,1,1,1,Soft Decline,Job matching / training
+أمينة الشيخ,1,784-1582-6492545-7,24,1,أمينة الشيخ,أمينة الشيخ,0,0,0,1,1,Approve,Job matching / training
+أنور المهيري,0,784-4446-4126252-3,35,1,أنور المهيري,أنور المهيري,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+سارة الحربي,1,784-1996-3630621-5,22,1,سارة الحربي,سارة الحربي,1,1,1,1,1,Soft Decline,No recommendation
+منيرة الأنصاري,1,784-9395-9215024-2,38,1,منيرة الأنصاري,منيرة الأنصاري,1,1,1,0,0,Soft Decline,Financial counseling
+منيرة القاسمي,1,784-6556-4375147-6,44,1,منيرة القاسمي,منيرة القاسمي,1,1,1,1,1,Soft Decline,No recommendation
+مازن الزيدي,0,784-7116-8607537-9,49,1,مازن الزيدي,مازن الزيدي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+بدر الشامسي,0,784-9787-3060017-5,44,1,بدر الشامسي,بدر الشامسي,0,1,0,0,1,Approve,Job matching / training
+فاطمة الهاشمي,1,784-4995-6307033-4,78,1,فاطمة الهاشمي,فاطمة الهاشمي,0,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+أمينة الهاشمي,1,784-1944-4220430-7,62,1,أمينة الهاشمي,أمينة الهاشمي,1,1,0,1,1,Strong Approve,Retirement financial assistance
+عمر الكتبي,0,784-1767-5303261-2,23,1,عمر الكتبي,عمر الكتبي,1,0,1,0,0,Soft Decline,Financial counseling
+يوسف العلي,0,784-6953-5948454-6,27,1,يوسف العلي,يوسف العلي,0,1,0,1,1,Approve,Job matching / training
+راشد الكتبي,0,784-4907-6589115-7,35,1,راشد الكتبي,راشد الكتبي,1,0,1,0,0,Soft Decline,Financial counseling
+خديجة المهيري,1,784-8089-3556299-1,67,1,خديجة المهيري,خديجة المهيري,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+نورة العنزي,1,784-4060-5155558-2,21,1,نورة العنزي,نورة العنزي,1,1,0,1,1,Approve,No recommendation
+ريما الرشيدي,1,784-8942-9102596-2,68,1,ريما الرشيدي,ريما الرشيدي,1,0,0,0,1,Strong Approve,Retirement financial assistance
+سعود القاسمي,0,784-8039-4753069-7,36,1,سعود القاسمي,سعود القاسمي,1,1,1,0,0,Soft Decline,Financial counseling
+فهد الدوسري,0,784-1139-6228509-0,56,1,فهد الدوسري,فهد الدوسري,1,1,0,1,0,Approve,Financial counseling
+مازن الدوسري,0,784-4383-1362759-6,32,1,مازن الدوسري,مازن الدوسري,0,0,1,0,1,Soft Decline,Job matching / training
+أنور الرشيدي,0,784-8350-1589248-5,55,1,أنور الرشيدي,أنور الرشيدي,1,0,1,1,0,Soft Decline,Financial counseling
+فاطمة الرشيدي,1,784-3368-9660029-7,20,1,فاطمة الرشيدي,فاطمة الرشيدي,1,1,1,1,0,Approve,Financial counseling
+فهد الزيدي,0,784-2760-5191095-6,22,1,فهد الزيدي,فهد الزيدي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+أحمد الحمادي,0,784-8658-6386478-2,33,1,أحمد الحمادي,أحمد الحمادي,1,1,1,0,0,Soft Decline,Financial counseling
+طارق المهيري,0,784-3121-1356368-6,41,1,طارق المهيري,طارق المهيري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+بدر التميمي,0,784-2569-3328663-5,23,1,بدر التميمي,بدر التميمي,1,1,0,0,1,Soft Decline,No recommendation
+محمد الرشيدي,0,784-2628-5681590-3,66,1,محمد الرشيدي,محمد الرشيدي,1,1,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عبدالله الظاهري,0,784-9598-9721259-3,26,1,عبدالله الظاهري,عبدالله الظاهري,0,0,1,1,1,Soft Decline,Job matching / training
+سعود التميمي,0,784-6132-4090088-4,28,1,سعود التميمي,سعود التميمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+لطيفة الأنصاري,1,784-3694-8007100-0,79,1,لطيفة الأنصاري,لطيفة الأنصاري,1,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+علي الأنصاري,0,784-2520-1265916-3,56,1,علي الأنصاري,علي الأنصاري,0,0,1,0,1,Soft Decline,Job matching / training
+مازن المنصوري,0,784-2432-1509101-3,43,1,مازن المنصوري,مازن المنصوري,1,0,1,1,1,Soft Decline,No recommendation
+بدر الحربي,0,784-8040-1309541-2,69,1,بدر الحربي,بدر الحربي,1,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عبدالله الظاهري,0,784-4824-2720116-0,51,1,عبدالله الظاهري,عبدالله الظاهري,0,0,0,1,1,Approve,Job matching / training
+أحمد العنزي,0,784-2744-2029054-6,67,1,أحمد العنزي,أحمد العنزي,1,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+بدر القاسمي,0,784-3890-4992883-4,45,1,بدر القاسمي,بدر القاسمي,0,0,0,0,1,Soft Decline,Job matching / training
+سارة القاسمي,1,784-6942-1358944-4,53,1,سارة القاسمي,سارة القاسمي,1,1,0,0,0,Approve,Financial counseling
+راشد الأنصاري,0,784-5455-6198120-3,76,1,راشد الأنصاري,راشد الأنصاري,0,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+خالد الحمادي,0,784-5220-1316198-8,48,1,خالد الحمادي,خالد الحمادي,0,1,0,1,1,Approve,Job matching / training
+راشد العلي,0,784-9503-4286906-7,50,1,راشد العلي,راشد العلي,1,0,0,0,0,Soft Decline,Financial counseling
+مريم الأنصاري,1,784-5604-8158671-9,54,1,مريم الأنصاري,مريم الأنصاري,1,1,1,1,0,Approve,Financial counseling
+سليمان الظاهري,0,784-9088-6477571-3,68,1,سليمان الظاهري,سليمان الظاهري,0,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+يوسف العلي,0,784-2941-8771881-7,54,1,يوسف العلي,يوسف العلي,1,1,1,1,1,Soft Decline,No recommendation
+عمر الدوسري,0,784-8841-5964048-7,54,1,عمر الدوسري,عمر الدوسري,0,1,0,0,1,Approve,Job matching / training
+يوسف الدوسري,0,784-9591-5295111-6,53,1,يوسف الدوسري,يوسف الدوسري,0,0,0,1,1,Approve,Job matching / training
+دلال العلي,1,784-1157-3060124-8,46,1,دلال العلي,دلال العلي,1,1,0,0,1,Soft Decline,No recommendation
+محمد العنزي,0,784-7634-8112216-8,63,1,محمد العنزي,محمد العنزي,1,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+محمد العلي,0,784-7650-3967403-3,23,1,محمد العلي,محمد العلي,1,0,1,1,1,Soft Decline,No recommendation
+نجلاء الظاهري,1,784-8755-6805623-8,37,1,نجلاء الظاهري,نجلاء الظاهري,0,0,0,1,1,Approve,Job matching / training
+ليلى الزيدي,1,784-1602-2051819-3,48,1,ليلى الزيدي,ليلى الزيدي,0,0,0,0,1,Soft Decline,Job matching / training
+عمر الكتبي,0,784-1166-6106649-6,54,1,عمر الكتبي,عمر الكتبي,0,0,0,1,1,Approve,Job matching / training
+محمد الكتبي,0,784-1461-6563383-6,46,1,محمد الكتبي,محمد الكتبي,1,0,0,0,0,Soft Decline,Financial counseling
+نجلاء الكتبي,1,784-1247-7040699-3,26,1,نجلاء الكتبي,نجلاء الكتبي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+فاطمة القاسمي,1,784-5153-1383082-8,59,1,فاطمة القاسمي,فاطمة القاسمي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+عبير الزيدي,1,784-5480-3163407-1,55,1,عبير الزيدي,عبير الزيدي,0,1,1,0,1,Soft Decline,Job matching / training
+عبدالرحمن الدوسري,0,784-7307-7105058-2,34,1,عبدالرحمن الدوسري,عبدالرحمن الدوسري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+عبدالله الزيدي,0,784-8972-3359367-1,32,1,عبدالله الزيدي,عبدالله الزيدي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+نجلاء الهاشمي,1,784-1793-2764872-0,25,1,نجلاء الهاشمي,نجلاء الهاشمي,1,1,0,1,1,Approve,No recommendation
+لطيفة النعيمي,1,784-8166-9091208-5,24,1,لطيفة النعيمي,لطيفة النعيمي,0,0,1,1,1,Soft Decline,Job matching / training
+راشد العنزي,0,784-2586-5390435-8,22,1,راشد العنزي,راشد العنزي,0,0,0,1,1,Approve,Job matching / training
+نورة الحربي,1,784-3828-8369893-2,53,1,نورة الحربي,نورة الحربي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+دلال الظاهري,1,784-9716-4014163-5,38,1,دلال الظاهري,دلال الظاهري,1,1,0,0,0,Approve,Financial counseling
+لطيفة النعيمي,1,784-3193-4813493-2,34,1,لطيفة النعيمي,لطيفة النعيمي,1,1,1,0,0,Soft Decline,Financial counseling
+علي الشامسي,0,784-8540-7089008-9,58,1,علي الشامسي,علي الشامسي,1,1,1,1,0,Approve,Financial counseling
+نورة الهاشمي,1,784-9769-8130004-5,27,1,نورة الهاشمي,نورة الهاشمي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+عبدالله القاسمي,0,784-7612-3465569-9,24,1,عبدالله القاسمي,عبدالله القاسمي,0,1,0,0,1,Approve,Job matching / training
+علي السويدي,0,784-8258-4535794-9,55,1,علي السويدي,علي السويدي,1,0,0,0,0,Soft Decline,Financial counseling
+سليمان القاسمي,0,784-8742-6637436-9,33,1,سليمان القاسمي,سليمان القاسمي,0,1,0,1,1,Approve,Job matching / training
+إبراهيم التميمي,0,784-4151-5015631-6,34,1,إبراهيم التميمي,إبراهيم التميمي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+سارة القاسمي,1,784-9205-4439370-9,71,1,سارة القاسمي,سارة القاسمي,1,0,0,1,1,Strong Approve,Retirement financial assistance
+سليمان الهاجري,0,784-2458-3190220-4,36,1,سليمان الهاجري,سليمان الهاجري,1,0,0,0,0,Soft Decline,Financial counseling
+لطيفة الرشيدي,1,784-1299-5044665-0,43,1,لطيفة الرشيدي,لطيفة الرشيدي,1,0,1,1,0,Soft Decline,Financial counseling
+مريم العلي,1,784-2323-3554193-8,63,1,مريم العلي,مريم العلي,0,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سعود الظاهري,0,784-2536-6663889-3,69,1,سعود الظاهري,سعود الظاهري,0,1,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+لطيفة الهاشمي,1,784-6811-2479471-6,47,1,لطيفة الهاشمي,لطيفة الهاشمي,1,1,1,1,0,Approve,Financial counseling
+دلال الشيخ,1,784-2411-6449938-3,55,1,دلال الشيخ,دلال الشيخ,0,0,1,0,1,Soft Decline,Job matching / training
+عائشة الظاهري,1,784-7616-9729858-1,38,1,عائشة الظاهري,عائشة الظاهري,0,1,1,1,1,Approve,Job matching / training
+جاسم التميمي,0,784-8602-3743565-4,49,1,جاسم التميمي,جاسم التميمي,0,1,0,0,1,Approve,Job matching / training
+سامي السويدي,0,784-1504-4280831-4,79,1,سامي السويدي,سامي السويدي,1,1,1,1,1,Reject,Retirement financial assistance
+أروى السويدي,1,784-4321-7637054-5,70,1,أروى السويدي,أروى السويدي,0,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+لطيفة العلي,1,784-9000-5550046-9,49,1,لطيفة العلي,لطيفة العلي,1,0,0,1,1,Soft Decline,No recommendation
+عهد الهاجري,1,784-1356-2303580-7,59,1,عهد الهاجري,عهد الهاجري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+إبراهيم الهاشمي,0,784-5622-4541849-9,35,1,إبراهيم الهاشمي,إبراهيم الهاشمي,1,0,1,0,0,Soft Decline,Financial counseling
+أحمد الظاهري,0,784-9101-1490248-7,34,1,أحمد الظاهري,أحمد الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+منيرة العلي,1,784-7763-8702659-4,38,1,منيرة العلي,منيرة العلي,1,0,1,1,0,Soft Decline,Financial counseling
+سعود الحمادي,0,784-3631-3081999-6,39,1,سعود الحمادي,سعود الحمادي,1,0,0,1,1,Soft Decline,No recommendation
+عهد الدوسري,1,784-3697-6254737-9,58,1,عهد الدوسري,عهد الدوسري,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+أمينة الحربي,1,784-7197-5582743-8,35,1,أمينة الحربي,أمينة الحربي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+هند السويدي,1,784-9441-2728089-0,19,1,هند السويدي,هند السويدي,0,0,1,0,1,Soft Decline,Job matching / training
+يوسف الرشيدي,0,784-7220-2607939-4,56,1,يوسف الرشيدي,يوسف الرشيدي,1,0,0,0,1,Soft Decline,No recommendation
+نجلاء الظاهري,1,784-3257-9220165-8,26,1,نجلاء الظاهري,نجلاء الظاهري,1,1,1,1,1,Soft Decline,No recommendation
+منيرة الأنصاري,1,784-4552-9627664-3,40,1,منيرة الأنصاري,منيرة الأنصاري,1,1,1,1,0,Approve,Financial counseling
+يوسف الشيخ,0,784-1429-7236637-3,61,1,يوسف الشيخ,يوسف الشيخ,0,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عائشة الهاجري,1,784-3352-5517427-9,73,1,عائشة الهاجري,عائشة الهاجري,1,0,0,0,1,Strong Approve,Retirement financial assistance
+خديجة الشيخ,1,784-8751-5300974-7,53,1,خديجة الشيخ,خديجة الشيخ,1,0,1,0,1,Reject,No recommendation
+جاسم المنصوري,0,784-2917-9606590-0,24,1,جاسم المنصوري,جاسم المنصوري,1,1,0,0,0,Approve,Financial counseling
+أمينة المنصوري,1,784-9327-3870767-8,30,1,أمينة المنصوري,أمينة المنصوري,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+مازن الأنصاري,0,784-3419-7944716-6,24,1,مازن الأنصاري,مازن الأنصاري,1,1,0,0,0,Approve,Financial counseling
+مريم الرشيدي,1,784-5553-5517767-2,31,1,مريم الرشيدي,مريم الرشيدي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+إبراهيم العلي,0,784-9167-9759092-2,32,1,إبراهيم العلي,إبراهيم العلي,1,0,1,0,1,Reject,No recommendation
+عهد العلي,1,784-9557-7273904-4,48,1,عهد العلي,عهد العلي,1,1,0,1,0,Approve,Financial counseling
+سارة الهاجري,1,784-7878-4775997-8,32,1,سارة الهاجري,سارة الهاجري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+فهد السويدي,0,784-9477-7929830-0,42,1,فهد السويدي,فهد السويدي,1,1,0,0,1,Soft Decline,No recommendation
+أحمد الدوسري,0,784-1908-4807146-7,43,1,أحمد الدوسري,أحمد الدوسري,1,0,1,0,1,Reject,No recommendation
+سعود التميمي,0,784-8345-4501240-6,79,1,سعود التميمي,سعود التميمي,0,0,0,1,1,Strong Approve,Retirement financial assistance
+منيرة العنزي,1,784-2949-5474628-2,53,1,منيرة العنزي,منيرة العنزي,0,0,0,1,1,Approve,Job matching / training
+أنور المهيري,0,784-1472-1197073-0,46,1,أنور المهيري,أنور المهيري,0,0,0,1,1,Approve,Job matching / training
+جاسم العنزي,0,784-1402-6843006-7,56,1,جاسم العنزي,جاسم العنزي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+عبدالله الأنصاري,0,784-4018-4172409-0,75,1,عبدالله الأنصاري,عبدالله الأنصاري,1,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+شيماء العنزي,1,784-1962-2196830-9,50,1,شيماء العنزي,شيماء العنزي,0,1,1,1,1,Approve,Job matching / training
+أروى السويدي,1,784-3357-8705030-9,36,1,أروى السويدي,أروى السويدي,1,1,0,1,1,Approve,No recommendation
+علي الرشيدي,0,784-1259-3540138-0,77,1,علي الرشيدي,علي الرشيدي,0,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+خديجة الهاشمي,1,784-1003-2010709-9,48,1,خديجة الهاشمي,خديجة الهاشمي,1,0,1,1,1,Soft Decline,No recommendation
+أنور العلي,0,784-9796-5734036-7,28,1,أنور العلي,أنور العلي,1,1,0,0,1,Soft Decline,No recommendation
+دلال السويدي,1,784-4397-6005314-6,60,1,دلال السويدي,دلال السويدي,1,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+شيماء السويدي,1,784-2889-6795894-8,21,1,شيماء السويدي,شيماء السويدي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+نورة الهاشمي,1,784-4113-6373742-2,37,1,نورة الهاشمي,نورة الهاشمي,1,0,0,1,0,Approve,Financial counseling
+طارق الشامسي,0,784-1522-3376882-1,47,1,طارق الشامسي,طارق الشامسي,0,0,1,0,1,Soft Decline,Job matching / training
+أحمد التميمي,0,784-7308-7479164-4,52,1,أحمد التميمي,أحمد التميمي,1,1,0,1,0,Approve,Financial counseling
+سليمان القاسمي,0,784-1314-5872563-3,60,1,سليمان القاسمي,سليمان القاسمي,0,1,0,0,1,Strong Approve,Retirement financial assistance
+أمينة الهاشمي,1,784-5519-9780914-5,75,1,أمينة الهاشمي,أمينة الهاشمي,0,0,1,0,1,Reject,Retirement financial assistance
+مازن المهيري,0,784-7919-1086041-5,74,1,مازن المهيري,مازن المهيري,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ليلى المهيري,1,784-9234-4819167-8,56,1,ليلى المهيري,ليلى المهيري,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+ليلى التميمي,1,784-1849-5332105-3,72,1,ليلى التميمي,ليلى التميمي,0,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ليلى العلي,1,784-6932-2278287-4,47,1,ليلى العلي,ليلى العلي,1,0,0,0,1,Soft Decline,No recommendation
+شيماء التميمي,1,784-7825-2918938-9,54,1,شيماء التميمي,شيماء التميمي,1,0,0,1,1,Soft Decline,No recommendation
+طارق الدوسري,0,784-4303-5489988-5,58,1,طارق الدوسري,طارق الدوسري,0,1,1,1,1,Approve,Job matching / training
+إبراهيم الرشيدي,0,784-7142-9964407-2,74,1,إبراهيم الرشيدي,إبراهيم الرشيدي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ريما الكتبي,1,784-2670-8269407-8,56,1,ريما الكتبي,ريما الكتبي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+عهد الأنصاري,1,784-3557-8324254-5,38,1,عهد الأنصاري,عهد الأنصاري,1,0,1,0,1,Reject,No recommendation
+مريم الحمادي,1,784-6968-8842590-9,34,1,مريم الحمادي,مريم الحمادي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+عبدالرحمن الظاهري,0,784-2993-6805372-4,74,1,عبدالرحمن الظاهري,عبدالرحمن الظاهري,0,0,0,0,1,Strong Approve,Retirement financial assistance
+أنور القاسمي,0,784-9513-9917174-1,18,1,أنور القاسمي,أنور القاسمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+بدر النعيمي,0,784-1408-7133615-2,20,1,بدر النعيمي,بدر النعيمي,0,0,1,0,1,Soft Decline,Job matching / training
+فهد الرشيدي,0,784-6679-5049084-4,36,1,فهد الرشيدي,فهد الرشيدي,1,0,0,1,0,Approve,Financial counseling
+سارة المهيري,1,784-7835-2783215-9,32,1,سارة المهيري,سارة المهيري,1,0,0,1,0,Approve,Financial counseling
+عمر القاسمي,0,784-3732-3918598-6,63,1,عمر القاسمي,عمر القاسمي,1,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ريما الأنصاري,1,784-9630-3057989-5,54,1,ريما الأنصاري,ريما الأنصاري,1,0,1,0,1,Reject,No recommendation
+سعيد العلي,0,784-5648-9232682-1,24,1,سعيد العلي,سعيد العلي,0,1,1,0,1,Soft Decline,Job matching / training
+فهد القاسمي,0,784-7352-4949800-8,44,1,فهد القاسمي,فهد القاسمي,1,0,0,0,1,Soft Decline,No recommendation
+نورة الزيدي,1,784-6484-9596434-0,57,1,نورة الزيدي,نورة الزيدي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+زينب الشامسي,1,784-4079-4984037-2,35,1,زينب الشامسي,زينب الشامسي,1,0,1,1,0,Soft Decline,Financial counseling
+أروى الهاشمي,1,784-9806-5526533-4,70,1,أروى الهاشمي,أروى الهاشمي,1,0,1,0,1,Reject,Retirement financial assistance
+سارة الحمادي,1,784-2352-2597008-8,45,1,سارة الحمادي,سارة الحمادي,1,1,0,1,0,Approve,Financial counseling
+لطيفة الشيخ,1,784-5352-1973879-7,72,1,لطيفة الشيخ,لطيفة الشيخ,1,0,0,0,1,Strong Approve,Retirement financial assistance
+شيماء العلي,1,784-3567-6688186-2,35,1,شيماء العلي,شيماء العلي,1,1,1,1,0,Approve,Financial counseling
+دلال الشامسي,1,784-3100-6167070-6,18,1,دلال الشامسي,دلال الشامسي,0,0,0,1,1,Approve,Job matching / training
+نجلاء الهاشمي,1,784-5086-9729956-2,43,1,نجلاء الهاشمي,نجلاء الهاشمي,1,0,0,0,1,Soft Decline,No recommendation
+ريما الهاجري,1,784-8563-5658306-9,25,1,ريما الهاجري,ريما الهاجري,1,1,0,0,1,Soft Decline,No recommendation
+عبير العنزي,1,784-2297-6613966-1,22,1,عبير العنزي,عبير العنزي,1,1,1,0,1,Soft Decline,No recommendation
+عائشة النعيمي,1,784-9681-8658558-2,35,1,عائشة النعيمي,عائشة النعيمي,0,0,0,1,1,Approve,Job matching / training
+خديجة المنصوري,1,784-5875-4499663-4,28,1,خديجة المنصوري,خديجة المنصوري,0,1,0,1,1,Approve,Job matching / training
+أمينة التميمي,1,784-5041-5505163-2,32,1,أمينة التميمي,أمينة التميمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+سامي الحربي,0,784-9272-7131328-4,77,1,سامي الحربي,سامي الحربي,1,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+مازن الشيخ,0,784-5409-7838724-7,25,1,مازن الشيخ,مازن الشيخ,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+نورة الظاهري,1,784-2788-1731976-9,37,1,نورة الظاهري,نورة الظاهري,1,1,0,1,0,Approve,Financial counseling
+فهد الأنصاري,0,784-2726-9403422-2,52,1,فهد الأنصاري,فهد الأنصاري,0,0,0,0,1,Soft Decline,Job matching / training
+جميلة التميمي,1,784-8936-9223673-5,46,1,جميلة التميمي,جميلة التميمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+سليمان العلي,0,784-2318-7077637-4,22,1,سليمان العلي,سليمان العلي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+بدر السويدي,0,784-3551-5258100-4,48,1,بدر السويدي,بدر السويدي,0,0,0,1,1,Approve,Job matching / training
+يوسف التميمي,0,784-7675-2698852-1,48,1,يوسف التميمي,يوسف التميمي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+سارة الكتبي,1,784-7185-3190265-2,32,1,سارة الكتبي,سارة الكتبي,0,0,0,0,1,Soft Decline,Job matching / training
+ريما الأنصاري,1,784-3900-3010908-8,41,1,ريما الأنصاري,ريما الأنصاري,0,1,1,0,1,Soft Decline,Job matching / training
+نورة العنزي,1,784-3095-7091613-6,40,1,نورة العنزي,نورة العنزي,1,0,0,1,1,Soft Decline,No recommendation
+أمينة الحمادي,1,784-7920-3236295-5,74,1,أمينة الحمادي,أمينة الحمادي,0,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+مازن الأنصاري,0,784-9094-5282651-5,48,1,مازن الأنصاري,مازن الأنصاري,0,1,1,1,1,Approve,Job matching / training
+سليمان التميمي,0,784-1315-3573901-9,25,1,سليمان التميمي,سليمان التميمي,0,0,1,0,1,Soft Decline,Job matching / training
+خالد الهاجري,0,784-3536-9789396-6,46,1,خالد الهاجري,خالد الهاجري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+محمد الهاجري,0,784-3685-5737773-5,28,1,محمد الهاجري,محمد الهاجري,0,1,1,0,1,Soft Decline,Job matching / training
+دلال القاسمي,1,784-1185-6690026-5,19,1,دلال القاسمي,دلال القاسمي,0,1,0,1,1,Approve,Job matching / training
+مازن السويدي,0,784-1605-2800005-2,28,1,مازن السويدي,مازن السويدي,0,0,0,1,1,Approve,Job matching / training
+عمر الشامسي,0,784-5968-3537567-6,29,1,عمر الشامسي,عمر الشامسي,1,0,1,0,1,Reject,No recommendation
+سليمان الشامسي,0,784-4658-6733686-7,60,1,سليمان الشامسي,سليمان الشامسي,0,0,1,1,1,Reject,Retirement financial assistance
+طارق الزيدي,0,784-6015-6623273-6,29,1,طارق الزيدي,طارق الزيدي,1,0,0,0,0,Soft Decline,Financial counseling
+سارة العنزي,1,784-1610-4851429-4,63,1,سارة العنزي,سارة العنزي,1,1,1,1,1,Reject,Retirement financial assistance
+خالد السويدي,0,784-9383-6591525-1,43,1,خالد السويدي,خالد السويدي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+عائشة السويدي,1,784-8123-1995496-8,27,1,عائشة السويدي,عائشة السويدي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+هند السويدي,1,784-8652-3041166-3,47,1,هند السويدي,هند السويدي,0,1,1,1,1,Approve,Job matching / training
+دلال الرشيدي,1,784-6652-5214507-1,53,1,دلال الرشيدي,دلال الرشيدي,0,1,0,0,1,Approve,Job matching / training
+سعيد الشيخ,0,784-1963-7230523-4,47,1,سعيد الشيخ,سعيد الشيخ,1,0,1,0,0,Soft Decline,Financial counseling
+شيماء التميمي,1,784-9447-9903828-9,38,1,شيماء التميمي,شيماء التميمي,0,0,0,1,1,Approve,Job matching / training
+منيرة النعيمي,1,784-2808-2628917-3,32,1,منيرة النعيمي,منيرة النعيمي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+مريم الشيخ,1,784-9625-5562932-7,53,1,مريم الشيخ,مريم الشيخ,1,0,0,0,1,Soft Decline,No recommendation
+دلال القاسمي,1,784-9783-6080185-1,56,1,دلال القاسمي,دلال القاسمي,1,0,0,1,0,Approve,Financial counseling
+خالد النعيمي,0,784-6035-9338866-0,62,1,خالد النعيمي,خالد النعيمي,1,1,1,1,1,Reject,Retirement financial assistance
+دلال الدوسري,1,784-3202-6987196-8,59,1,دلال الدوسري,دلال الدوسري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+فاطمة الزيدي,1,784-6199-9102487-8,23,1,فاطمة الزيدي,فاطمة الزيدي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+سليمان المهيري,0,784-8374-8405685-4,57,1,سليمان المهيري,سليمان المهيري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+محمد الدوسري,0,784-4573-2450252-6,62,1,محمد الدوسري,محمد الدوسري,0,1,1,1,1,Reject,Retirement financial assistance
+زينب الشامسي,1,784-1385-3206303-3,53,1,زينب الشامسي,زينب الشامسي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+نورة الزيدي,1,784-9710-1731892-3,76,1,نورة الزيدي,نورة الزيدي,1,1,0,1,1,Strong Approve,Retirement financial assistance
+خالد الكتبي,0,784-6482-5371261-6,30,1,خالد الكتبي,خالد الكتبي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+زينب الشيخ,1,784-2446-8908667-8,31,1,زينب الشيخ,زينب الشيخ,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+عبدالله الأنصاري,0,784-3234-9360638-4,36,1,عبدالله الأنصاري,عبدالله الأنصاري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+خديجة التميمي,1,784-6702-4646012-1,45,1,خديجة التميمي,خديجة التميمي,1,1,1,0,0,Soft Decline,Financial counseling
+نورة الأنصاري,1,784-3298-8029991-8,61,1,نورة الأنصاري,نورة الأنصاري,1,0,0,0,1,Strong Approve,Retirement financial assistance
+محمد الزيدي,0,784-7403-4705150-7,21,1,محمد الزيدي,محمد الزيدي,1,0,0,1,1,Soft Decline,No recommendation
+لطيفة الزيدي,1,784-2156-6218441-8,40,1,لطيفة الزيدي,لطيفة الزيدي,0,0,0,0,1,Soft Decline,Job matching / training
+ريما الشيخ,1,784-5438-1699485-9,31,1,ريما الشيخ,ريما الشيخ,1,0,0,1,1,Soft Decline,No recommendation
+مازن الدوسري,0,784-3872-7759771-6,41,1,مازن الدوسري,مازن الدوسري,0,0,1,0,1,Soft Decline,Job matching / training
+خديجة الهاشمي,1,784-1651-6863839-8,61,1,خديجة الهاشمي,خديجة الهاشمي,1,1,0,0,1,Strong Approve,Retirement financial assistance
+ريما المنصوري,1,784-1780-1704346-7,52,1,ريما المنصوري,ريما المنصوري,0,1,0,1,1,Approve,Job matching / training
+لطيفة العنزي,1,784-7634-1304753-6,19,1,لطيفة العنزي,لطيفة العنزي,1,1,1,0,1,Soft Decline,No recommendation
+زينب الهاشمي,1,784-7289-9011905-9,71,1,زينب الهاشمي,زينب الهاشمي,0,0,0,0,1,Strong Approve,Retirement financial assistance
+عبدالرحمن المنصوري,0,784-3520-8438305-6,56,1,عبدالرحمن المنصوري,عبدالرحمن المنصوري,1,1,0,0,1,Soft Decline,No recommendation
+نجلاء الهاشمي,1,784-6367-3916273-4,46,1,نجلاء الهاشمي,نجلاء الهاشمي,0,1,1,0,1,Soft Decline,Job matching / training
+خديجة التميمي,1,784-4885-1244991-2,20,1,خديجة التميمي,خديجة التميمي,0,0,1,1,1,Soft Decline,Job matching / training
+نجلاء الهاشمي,1,784-3737-2343277-1,49,1,نجلاء الهاشمي,نجلاء الهاشمي,1,1,1,1,1,Soft Decline,No recommendation
+سعيد النعيمي,0,784-6556-3541105-0,19,1,سعيد النعيمي,سعيد النعيمي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+مريم الكتبي,1,784-1677-3764211-6,72,1,مريم الكتبي,مريم الكتبي,0,1,1,1,1,Reject,Retirement financial assistance
+هند الدوسري,1,784-2463-9971884-7,49,1,هند الدوسري,هند الدوسري,1,1,1,1,1,Soft Decline,No recommendation
+خالد الرشيدي,0,784-8812-2055007-4,56,1,خالد الرشيدي,خالد الرشيدي,1,1,1,0,1,Soft Decline,No recommendation
+أروى المنصوري,1,784-8497-4333232-1,47,1,أروى المنصوري,أروى المنصوري,0,0,1,0,1,Soft Decline,Job matching / training
+سليمان الأنصاري,0,784-9417-2542982-0,70,1,سليمان الأنصاري,سليمان الأنصاري,1,1,0,0,1,Strong Approve,Retirement financial assistance
+خديجة المنصوري,1,784-5235-1860501-0,19,1,خديجة المنصوري,خديجة المنصوري,1,0,0,0,1,Soft Decline,No recommendation
+فهد الكتبي,0,784-4321-2267642-1,72,1,فهد الكتبي,فهد الكتبي,0,0,1,1,1,Reject,Retirement financial assistance
+أروى الكتبي,1,784-3058-4927765-0,68,1,أروى الكتبي,أروى الكتبي,1,1,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+طارق الهاشمي,0,784-4643-7693395-3,71,1,طارق الهاشمي,طارق الهاشمي,1,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+نجلاء التميمي,1,784-3340-3595535-6,48,1,نجلاء التميمي,نجلاء التميمي,1,0,0,1,0,Approve,Financial counseling
+بدر الرشيدي,0,784-8990-9604671-8,62,1,بدر الرشيدي,بدر الرشيدي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+عبدالله السويدي,0,784-3932-5809407-2,58,1,عبدالله السويدي,عبدالله السويدي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+محمد الكتبي,0,784-2161-9250203-0,29,1,محمد الكتبي,محمد الكتبي,0,0,1,0,1,Soft Decline,Job matching / training
+طارق السويدي,0,784-9610-1337771-6,71,1,طارق السويدي,طارق السويدي,0,1,0,0,1,Strong Approve,Retirement financial assistance
+علي الظاهري,0,784-8713-5507139-6,45,1,علي الظاهري,علي الظاهري,1,0,0,1,1,Soft Decline,No recommendation
+جميلة الدوسري,1,784-1060-6031214-3,64,1,جميلة الدوسري,جميلة الدوسري,0,0,0,0,1,Strong Approve,Retirement financial assistance
+دلال الأنصاري,1,784-4818-7135234-7,46,1,دلال الأنصاري,دلال الأنصاري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+فاطمة الظاهري,1,784-6335-7005168-6,74,1,فاطمة الظاهري,فاطمة الظاهري,0,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+نجلاء الشيخ,1,784-5377-4087409-4,67,1,نجلاء الشيخ,نجلاء الشيخ,1,1,1,1,1,Reject,Retirement financial assistance
+عائشة الشامسي,1,784-1777-3380074-0,23,1,عائشة الشامسي,عائشة الشامسي,1,1,1,1,1,Soft Decline,No recommendation
+محمد العلي,0,784-9620-8746518-3,52,1,محمد العلي,محمد العلي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+أنور الدوسري,0,784-2613-9521385-3,45,1,أنور الدوسري,أنور الدوسري,1,0,0,0,0,Soft Decline,Financial counseling
+هند الزيدي,1,784-4667-8520622-0,40,1,هند الزيدي,هند الزيدي,1,0,1,0,0,Soft Decline,Financial counseling
+راشد العلي,0,784-5410-2516523-0,27,1,راشد العلي,راشد العلي,0,1,0,0,1,Approve,Job matching / training
+سارة الأنصاري,1,784-8256-6750857-8,27,1,سارة الأنصاري,سارة الأنصاري,1,1,0,0,1,Soft Decline,No recommendation
+أروى الهاشمي,1,784-1408-6887922-0,23,1,أروى الهاشمي,أروى الهاشمي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+سعود المنصوري,0,784-6981-7630385-6,19,1,سعود المنصوري,سعود المنصوري,0,1,0,0,1,Approve,Job matching / training
+ريما الظاهري,1,784-2528-8586355-8,50,1,ريما الظاهري,ريما الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+نجلاء الحربي,1,784-6559-4097971-3,48,1,نجلاء الحربي,نجلاء الحربي,0,1,0,0,1,Approve,Job matching / training
+عبدالرحمن الظاهري,0,784-6740-2660646-7,27,1,عبدالرحمن الظاهري,عبدالرحمن الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+عمر الحمادي,0,784-4379-7122851-0,27,1,عمر الحمادي,عمر الحمادي,1,1,1,1,0,Approve,Financial counseling
+سعيد العنزي,0,784-6010-4686327-1,74,1,سعيد العنزي,سعيد العنزي,1,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سامي المهيري,0,784-2151-8701575-6,19,1,سامي المهيري,سامي المهيري,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+راشد الظاهري,0,784-2695-9193028-6,57,1,راشد الظاهري,راشد الظاهري,1,1,0,0,1,Soft Decline,No recommendation
+نورة الدوسري,1,784-1729-9166010-1,66,1,نورة الدوسري,نورة الدوسري,0,1,1,0,1,Reject,Retirement financial assistance
+أحمد التميمي,0,784-5688-8155730-8,71,1,أحمد التميمي,أحمد التميمي,0,0,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+خالد الحربي,0,784-4909-6990242-6,51,1,خالد الحربي,خالد الحربي,0,1,1,0,1,Soft Decline,Job matching / training
+نورة الهاشمي,1,784-2033-9133697-1,20,1,نورة الهاشمي,نورة الهاشمي,1,0,1,0,1,Reject,No recommendation
+فهد السويدي,0,784-6625-6016380-2,61,1,فهد السويدي,فهد السويدي,1,0,1,0,1,Reject,Retirement financial assistance
+أحمد الشيخ,0,784-5529-5475417-6,31,1,أحمد الشيخ,أحمد الشيخ,0,0,1,0,1,Soft Decline,Job matching / training
+أحمد الرشيدي,0,784-6375-1268702-7,18,1,أحمد الرشيدي,أحمد الرشيدي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+دلال الكتبي,1,784-4110-3770816-8,21,1,دلال الكتبي,دلال الكتبي,0,0,0,1,1,Approve,Job matching / training
+عبدالرحمن القاسمي,0,784-7934-2074062-6,78,1,عبدالرحمن القاسمي,عبدالرحمن القاسمي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+مريم الزيدي,1,784-1988-7332650-2,59,1,مريم الزيدي,مريم الزيدي,1,1,0,0,0,Approve,Financial counseling
+طارق الأنصاري,0,784-9722-4441072-6,42,1,طارق الأنصاري,طارق الأنصاري,0,1,1,1,1,Approve,Job matching / training
+لطيفة الهاشمي,1,784-5890-7026803-3,30,1,لطيفة الهاشمي,لطيفة الهاشمي,1,0,0,0,0,Soft Decline,Financial counseling
+مريم الرشيدي,1,784-7658-4657231-0,49,1,مريم الرشيدي,مريم الرشيدي,0,1,1,0,1,Soft Decline,Job matching / training
+سليمان الكتبي,0,784-6472-6398251-4,25,1,سليمان الكتبي,سليمان الكتبي,1,0,0,1,1,Soft Decline,No recommendation
+خالد الهاشمي,0,784-2923-4960678-0,21,1,خالد الهاشمي,خالد الهاشمي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+سعود السويدي,0,784-8798-8865488-5,73,1,سعود السويدي,سعود السويدي,0,0,0,0,1,Strong Approve,Retirement financial assistance
+سعيد القاسمي,0,784-8873-5119058-5,78,1,سعيد القاسمي,سعيد القاسمي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+عبدالله الشيخ,0,784-5779-1928526-4,39,1,عبدالله الشيخ,عبدالله الشيخ,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+شيماء الشيخ,1,784-6710-6212591-1,28,1,شيماء الشيخ,شيماء الشيخ,1,1,0,0,1,Soft Decline,No recommendation
+عبير الشامسي,1,784-1743-2001263-0,43,1,عبير الشامسي,عبير الشامسي,0,1,0,1,1,Approve,Job matching / training
+نجلاء العلي,1,784-7676-8496371-2,41,1,نجلاء العلي,نجلاء العلي,1,0,0,1,1,Soft Decline,No recommendation
+أنور النعيمي,0,784-7143-3188017-2,53,1,أنور النعيمي,أنور النعيمي,0,1,0,1,1,Approve,Job matching / training
+خالد المنصوري,0,784-7882-4779768-2,31,1,خالد المنصوري,خالد المنصوري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+محمد التميمي,0,784-3504-4348202-1,28,1,محمد التميمي,محمد التميمي,1,0,1,0,1,Reject,No recommendation
+فهد الأنصاري,0,784-1973-8258271-9,29,1,فهد الأنصاري,فهد الأنصاري,1,1,1,1,1,Soft Decline,No recommendation
+مريم الهاشمي,1,784-2099-4935533-1,32,1,مريم الهاشمي,مريم الهاشمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+خالد الدوسري,0,784-8639-1949243-5,78,1,خالد الدوسري,خالد الدوسري,1,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سامي الشيخ,0,784-1415-1817768-4,30,1,سامي الشيخ,سامي الشيخ,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+عبدالرحمن النعيمي,0,784-1726-1270141-7,72,1,عبدالرحمن النعيمي,عبدالرحمن النعيمي,1,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ليلى الكتبي,1,784-4945-1096019-9,52,1,ليلى الكتبي,ليلى الكتبي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+أمينة الحربي,1,784-1610-9070590-0,57,1,أمينة الحربي,أمينة الحربي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+راشد العلي,0,784-8842-8044360-7,39,1,راشد العلي,راشد العلي,1,0,1,0,1,Reject,No recommendation
+سعود العلي,0,784-7809-4335995-1,34,1,سعود العلي,سعود العلي,0,0,1,0,1,Soft Decline,Job matching / training
+دلال العلي,1,784-3432-3919052-0,36,1,دلال العلي,دلال العلي,1,1,1,0,0,Soft Decline,Financial counseling
+هند الكتبي,1,784-4598-4237921-7,49,1,هند الكتبي,هند الكتبي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+فهد الهاشمي,0,784-3650-6976542-2,35,1,فهد الهاشمي,فهد الهاشمي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+طارق الأنصاري,0,784-7006-8268529-5,56,1,طارق الأنصاري,طارق الأنصاري,1,0,1,1,1,Soft Decline,No recommendation
+مازن المنصوري,0,784-8672-2609558-8,22,1,مازن المنصوري,مازن المنصوري,0,0,0,1,1,Approve,Job matching / training
+خديجة السويدي,1,784-4025-5254398-4,34,1,خديجة السويدي,خديجة السويدي,0,1,1,0,1,Soft Decline,Job matching / training
+سعيد الهاجري,0,784-2427-5560134-1,27,1,سعيد الهاجري,سعيد الهاجري,1,0,1,1,1,Soft Decline,No recommendation
+خالد الدوسري,0,784-6873-6938170-9,25,1,خالد الدوسري,خالد الدوسري,0,1,0,0,1,Approve,Job matching / training
+عائشة المهيري,1,784-2366-2848684-3,33,1,عائشة المهيري,عائشة المهيري,0,0,1,1,1,Soft Decline,Job matching / training
+عمر الظاهري,0,784-8165-4451665-9,31,1,عمر الظاهري,عمر الظاهري,1,1,0,0,0,Approve,Financial counseling
+خديجة الزيدي,1,784-4397-4789994-4,25,0,خديجة الزيدي,خديجة الزيدي,1,0,1,1,1,Soft Decline,No recommendation
+عبدالرحمن الظاهري,0,784-5964-2597186-5,50,1,عبدالرحمن الظاهري,عبدالرحمن الظاهري,1,0,0,1,0,Approve,Financial counseling
+محمد الكتبي,0,784-4762-6024614-2,40,1,محمد الكتبي,محمد الكتبي,0,1,0,0,1,Approve,Job matching / training
+عبدالله الرشيدي,0,784-1851-3586352-7,40,1,عبدالله الرشيدي,عبدالله الرشيدي,1,0,0,0,1,Soft Decline,No recommendation
+فهد المهيري,0,784-4944-4732320-5,59,1,فهد المهيري,فهد المهيري,1,1,0,1,0,Approve,Financial counseling
+منيرة الكتبي,1,784-1634-7037742-4,52,1,منيرة الكتبي,منيرة الكتبي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+عمر القاسمي,0,784-9784-1474281-9,34,1,عمر القاسمي,عمر القاسمي,0,1,0,1,1,Approve,Job matching / training
+جاسم السويدي,0,784-6343-1503183-4,39,1,جاسم السويدي,جاسم السويدي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+هند الشيخ,1,784-4196-8429614-7,19,1,هند الشيخ,هند الشيخ,1,1,0,1,0,Approve,Financial counseling
+منيرة الرشيدي,1,784-6714-6800621-4,25,1,منيرة الرشيدي,منيرة الرشيدي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+مريم الهاشمي,1,784-3503-7916591-2,30,1,مريم الهاشمي,مريم الهاشمي,0,0,1,0,1,Soft Decline,Job matching / training
+سعود الظاهري,0,784-4245-2431113-4,32,1,سعود الظاهري,سعود الظاهري,1,0,1,1,1,Soft Decline,No recommendation
+أنور الحربي,0,784-6843-3028697-6,47,1,أنور الحربي,أنور الحربي,1,1,0,0,1,Soft Decline,No recommendation
+أحمد القاسمي,0,784-2614-2288317-1,54,1,أحمد القاسمي,أحمد القاسمي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+خالد الهاشمي,0,784-9338-3621180-5,32,1,خالد الهاشمي,خالد الهاشمي,0,0,1,0,1,Soft Decline,Job matching / training
+بدر العنزي,0,784-9561-9947565-9,29,1,بدر العنزي,بدر العنزي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+لطيفة العلي,1,784-1151-1895752-9,28,1,لطيفة العلي,لطيفة العلي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+طارق النعيمي,0,784-1270-3437495-9,18,1,طارق النعيمي,طارق النعيمي,1,0,0,0,0,Soft Decline,Financial counseling
+أروى المنصوري,1,784-3713-2628100-8,28,1,أروى المنصوري,أروى المنصوري,1,1,0,1,0,Approve,Financial counseling
+أنور الظاهري,0,784-1639-4318232-5,19,1,أنور الظاهري,أنور الظاهري,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+ريما القاسمي,1,784-7994-9497712-5,33,1,ريما القاسمي,ريما القاسمي,1,0,1,0,0,Soft Decline,Financial counseling
+بدر الدوسري,0,784-7580-3381165-5,50,1,بدر الدوسري,بدر الدوسري,1,1,0,0,0,Approve,Financial counseling
+ليلى الرشيدي,1,784-3353-7460453-4,38,1,ليلى الرشيدي,ليلى الرشيدي,1,1,0,1,0,Approve,Financial counseling
+عائشة النعيمي,1,784-4763-6311611-3,27,1,عائشة النعيمي,عائشة النعيمي,0,1,1,1,1,Approve,Job matching / training
+زينب المنصوري,1,784-4040-8590668-2,48,1,زينب المنصوري,زينب المنصوري,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+دلال الشيخ,1,784-4551-9966532-6,30,1,دلال الشيخ,دلال الشيخ,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+هند الحربي,1,784-9899-7301712-9,44,1,هند الحربي,هند الحربي,1,1,0,1,1,Approve,No recommendation
+سليمان النعيمي,0,784-3527-9368364-1,35,1,سليمان النعيمي,سليمان النعيمي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+سارة القاسمي,1,784-1602-5742579-0,54,1,سارة القاسمي,سارة القاسمي,1,1,0,0,0,Approve,Financial counseling
+دلال الزيدي,1,784-8130-4266406-1,61,1,دلال الزيدي,دلال الزيدي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+راشد الزيدي,0,784-4777-9953329-9,78,1,راشد الزيدي,راشد الزيدي,1,0,0,1,1,Strong Approve,Retirement financial assistance
+خديجة الحمادي,1,784-4040-2379624-2,20,1,خديجة الحمادي,خديجة الحمادي,1,0,1,1,0,Soft Decline,Financial counseling
+سعيد الكتبي,0,784-4088-1740086-5,77,1,سعيد الكتبي,سعيد الكتبي,0,1,0,0,1,Strong Approve,Retirement financial assistance
+ليلى الكتبي,1,784-9324-6294054-2,57,1,ليلى الكتبي,ليلى الكتبي,1,1,0,1,0,Approve,Financial counseling
+سامي السويدي,0,784-3286-2944611-8,44,1,سامي السويدي,سامي السويدي,1,0,0,1,0,Approve,Financial counseling
+عبدالله الحربي,0,784-6534-2508285-4,21,1,عبدالله الحربي,عبدالله الحربي,1,1,0,1,1,Approve,No recommendation
+سليمان الحمادي,0,784-7195-7187659-2,50,1,سليمان الحمادي,سليمان الحمادي,1,0,0,0,0,Soft Decline,Financial counseling
+سليمان النعيمي,0,784-8694-8762728-6,28,1,سليمان النعيمي,سليمان النعيمي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+سعود الظاهري,0,784-7845-9114457-1,79,1,سعود الظاهري,سعود الظاهري,1,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+دلال العلي,1,784-2503-9789562-3,53,1,دلال العلي,دلال العلي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+إبراهيم العلي,0,784-1571-7304427-2,20,1,إبراهيم العلي,إبراهيم العلي,0,1,0,0,1,Approve,Job matching / training
+يوسف المنصوري,0,784-1545-9980351-4,61,1,يوسف المنصوري,يوسف المنصوري,0,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+بدر الشامسي,0,784-5929-9141945-1,36,1,بدر الشامسي,بدر الشامسي,1,1,0,0,0,Approve,Financial counseling
+دلال الشامسي,1,784-4780-5440678-0,40,1,دلال الشامسي,دلال الشامسي,1,1,1,0,1,Soft Decline,No recommendation
+فاطمة الهاشمي,1,784-1139-4305585-6,31,1,فاطمة الهاشمي,فاطمة الهاشمي,1,1,1,1,1,Soft Decline,No recommendation
+عهد الهاشمي,1,784-4994-4326278-1,55,1,عهد الهاشمي,عهد الهاشمي,1,1,0,1,0,Approve,Financial counseling
+بدر الأنصاري,0,784-6445-7263059-1,31,1,بدر الأنصاري,بدر الأنصاري,0,0,1,0,1,Soft Decline,Job matching / training
+عبير الكتبي,1,784-6707-5966713-2,41,1,عبير الكتبي,عبير الكتبي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+ليلى النعيمي,1,784-8119-3558735-3,64,1,ليلى النعيمي,ليلى النعيمي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ليلى الشيخ,1,784-9419-3079073-1,66,1,ليلى الشيخ,ليلى الشيخ,0,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+منيرة العلي,1,784-6964-9561717-3,76,1,منيرة العلي,منيرة العلي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ريما القاسمي,1,784-8568-8475420-5,55,1,ريما القاسمي,ريما القاسمي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+سعود التميمي,0,784-9379-9608249-9,43,1,سعود التميمي,سعود التميمي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+طارق الزيدي,0,784-9070-5328571-0,57,1,طارق الزيدي,طارق الزيدي,0,0,1,0,1,Soft Decline,Job matching / training
+بدر الظاهري,0,784-4764-6474031-4,77,1,بدر الظاهري,بدر الظاهري,0,0,1,0,1,Reject,Retirement financial assistance
+سليمان الأنصاري,0,784-2446-6792462-2,39,1,سليمان الأنصاري,سليمان الأنصاري,0,0,0,0,1,Soft Decline,Job matching / training
+فهد التميمي,0,784-3926-5337165-3,76,1,فهد التميمي,فهد التميمي,1,1,0,1,1,Strong Approve,Retirement financial assistance
+أنور الأنصاري,0,784-2526-2510309-9,45,1,أنور الأنصاري,أنور الأنصاري,1,0,1,1,1,Soft Decline,No recommendation
+بدر الهاشمي,0,784-5797-9525822-9,71,1,بدر الهاشمي,بدر الهاشمي,0,0,0,1,1,Strong Approve,Retirement financial assistance
+نورة الحمادي,1,784-5955-9379235-8,52,1,نورة الحمادي,نورة الحمادي,0,0,0,1,1,Approve,Job matching / training
+سعيد الزيدي,0,784-8741-7361689-0,33,1,سعيد الزيدي,سعيد الزيدي,1,1,0,1,1,Approve,No recommendation
+شيماء الظاهري,1,784-3310-9813461-3,48,1,شيماء الظاهري,شيماء الظاهري,0,1,0,0,1,Approve,Job matching / training
+نجلاء الكتبي,1,784-1021-5968522-3,24,1,نجلاء الكتبي,نجلاء الكتبي,1,0,1,0,1,Reject,No recommendation
+ليلى الشامسي,1,784-7500-3984335-9,30,1,ليلى الشامسي,ليلى الشامسي,1,1,1,1,0,Approve,Financial counseling
+ريما العلي,1,784-6144-1125316-7,33,1,ريما العلي,ريما العلي,1,0,1,1,0,Soft Decline,Financial counseling
+خديجة الحمادي,1,784-4140-2279048-2,43,1,خديجة الحمادي,خديجة الحمادي,0,0,0,1,1,Approve,Job matching / training
+أمينة القاسمي,1,784-2143-3487981-9,37,1,أمينة القاسمي,أمينة القاسمي,0,1,0,1,1,Approve,Job matching / training
+شيماء التميمي,1,784-5322-9775445-1,66,1,شيماء التميمي,شيماء التميمي,0,0,1,0,1,Reject,Retirement financial assistance
+أنور العنزي,0,784-1433-4236886-6,47,1,أنور العنزي,أنور العنزي,1,1,1,0,0,Soft Decline,Financial counseling
+مريم الحمادي,1,784-2088-3404508-0,59,1,مريم الحمادي,مريم الحمادي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+لطيفة الشيخ,1,784-9530-7836232-7,78,1,لطيفة الشيخ,لطيفة الشيخ,1,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عائشة الهاجري,1,784-3447-2857212-7,42,1,عائشة الهاجري,عائشة الهاجري,1,1,1,1,1,Soft Decline,No recommendation
+ريما المهيري,1,784-1964-3034252-8,48,1,ريما المهيري,ريما المهيري,1,0,1,1,0,Soft Decline,Financial counseling
+سليمان العنزي,0,784-7189-9815697-0,48,1,سليمان العنزي,سليمان العنزي,1,0,0,0,1,Soft Decline,No recommendation
+مازن الزيدي,0,784-9432-1198797-6,23,1,مازن الزيدي,مازن الزيدي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+بدر الرشيدي,0,784-6007-3093712-5,65,1,بدر الرشيدي,بدر الرشيدي,1,0,0,1,1,Strong Approve,Retirement financial assistance
+فاطمة الزيدي,1,784-8185-6354034-9,60,1,فاطمة الزيدي,فاطمة الزيدي,1,0,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+محمد التميمي,0,784-5351-7595570-9,45,1,محمد التميمي,محمد التميمي,1,0,0,0,0,Soft Decline,Financial counseling
+سعود المهيري,0,784-5837-2748925-9,24,1,سعود المهيري,سعود المهيري,1,0,1,1,1,Soft Decline,No recommendation
+دلال الدوسري,1,784-8356-3652514-5,43,1,دلال الدوسري,دلال الدوسري,1,0,0,1,1,Soft Decline,No recommendation
+أروى العنزي,1,784-1622-8302656-1,62,1,أروى العنزي,أروى العنزي,1,1,0,1,1,Strong Approve,Retirement financial assistance
+سامي الرشيدي,0,784-6990-2055735-8,62,1,سامي الرشيدي,سامي الرشيدي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+نجلاء القاسمي,1,784-2715-5221383-2,77,1,نجلاء القاسمي,نجلاء القاسمي,0,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+هند المنصوري,1,784-1750-2965493-9,24,1,هند المنصوري,هند المنصوري,1,1,1,1,0,Approve,Financial counseling
+ليلى الكتبي,1,784-1804-1989438-4,57,1,ليلى الكتبي,ليلى الكتبي,1,1,1,0,1,Soft Decline,No recommendation
+زينب العنزي,1,784-1857-6462762-7,74,1,زينب العنزي,زينب العنزي,1,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+بدر النعيمي,0,784-3393-3893580-4,78,1,بدر النعيمي,بدر النعيمي,1,1,0,0,1,Strong Approve,Retirement financial assistance
+عبير القاسمي,1,784-1833-9687607-2,19,0,عبير القاسمي,عبير القاسمي,1,0,0,0,0,Soft Decline,Financial counseling
+عبدالله المنصوري,0,784-1699-2955489-3,56,1,عبدالله المنصوري,عبدالله المنصوري,1,1,0,1,1,Approve,No recommendation
+أحمد العلي,0,784-3817-4007878-6,64,1,أحمد العلي,أحمد العلي,1,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+شيماء الزيدي,1,784-2460-7379210-1,20,1,شيماء الزيدي,شيماء الزيدي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+دلال العنزي,1,784-3314-2103674-1,61,1,دلال العنزي,دلال العنزي,1,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+ليلى الدوسري,1,784-6816-3088983-2,45,1,ليلى الدوسري,ليلى الدوسري,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+زينب الأنصاري,1,784-3875-8027968-7,24,1,زينب الأنصاري,زينب الأنصاري,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+سعود الهاجري,0,784-6585-9492135-5,41,1,سعود الهاجري,سعود الهاجري,1,0,0,1,0,Approve,Financial counseling
+أنور المهيري,0,784-6426-2284726-6,21,1,أنور المهيري,أنور المهيري,0,0,0,0,1,Soft Decline,Job matching / training
+سامي الزيدي,0,784-7654-3831141-8,21,1,سامي الزيدي,سامي الزيدي,1,0,0,0,0,Soft Decline,Financial counseling
+أمينة الزيدي,1,784-4671-7738688-9,77,1,أمينة الزيدي,أمينة الزيدي,0,1,0,1,1,Strong Approve,Retirement financial assistance
+شيماء المنصوري,1,784-4958-3590772-5,37,1,شيماء المنصوري,شيماء المنصوري,0,0,0,1,1,Approve,Job matching / training
+أحمد الشامسي,0,784-2286-5498555-0,72,1,أحمد الشامسي,أحمد الشامسي,0,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+إبراهيم الشامسي,0,784-1358-6135437-9,21,1,إبراهيم الشامسي,إبراهيم الشامسي,1,1,1,1,1,Soft Decline,No recommendation
+راشد التميمي,0,784-9959-7546607-3,23,1,راشد التميمي,راشد التميمي,0,1,0,1,1,Approve,Job matching / training
+عهد النعيمي,1,784-2834-3931700-1,26,1,عهد النعيمي,عهد النعيمي,1,0,1,0,0,Soft Decline,Financial counseling
+عمر المهيري,0,784-8559-8180611-9,59,1,عمر المهيري,عمر المهيري,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+محمد الرشيدي,0,784-8203-4589794-0,47,1,محمد الرشيدي,محمد الرشيدي,0,0,0,1,1,Approve,Job matching / training
+إبراهيم التميمي,0,784-7171-7129659-0,58,1,إبراهيم التميمي,إبراهيم التميمي,0,0,0,1,1,Approve,Job matching / training
+فاطمة الهاشمي,1,784-4674-3753033-0,35,1,فاطمة الهاشمي,فاطمة الهاشمي,1,1,0,1,0,Approve,Financial counseling
+يوسف السويدي,0,784-1788-8413500-3,61,1,يوسف السويدي,يوسف السويدي,0,0,1,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سارة العلي,1,784-2718-8381422-7,46,1,سارة العلي,سارة العلي,1,1,1,0,1,Soft Decline,No recommendation
+يوسف الشامسي,0,784-4908-6081021-9,23,1,يوسف الشامسي,يوسف الشامسي,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+سعود النعيمي,0,784-9086-7349865-3,38,1,سعود النعيمي,سعود النعيمي,1,0,0,0,0,Soft Decline,Financial counseling
+دلال الرشيدي,1,784-1595-5436024-7,35,1,دلال الرشيدي,دلال الرشيدي,0,1,0,1,1,Approve,Job matching / training
+ليلى الحربي,1,784-2154-4251614-3,53,1,ليلى الحربي,ليلى الحربي,1,1,1,0,1,Soft Decline,No recommendation
+ليلى المهيري,1,784-7535-7507387-0,40,1,ليلى المهيري,ليلى المهيري,0,0,1,0,1,Soft Decline,Job matching / training
+علي السويدي,0,784-3456-5473702-3,38,1,علي السويدي,علي السويدي,1,1,0,1,1,Approve,No recommendation
+نورة الزيدي,1,784-8757-7787635-3,66,1,نورة الزيدي,نورة الزيدي,0,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+جميلة الحمادي,1,784-1264-9487632-2,42,1,جميلة الحمادي,جميلة الحمادي,0,1,0,1,1,Approve,Job matching / training
+إبراهيم الهاشمي,0,784-5801-1367872-4,20,1,إبراهيم الهاشمي,إبراهيم الهاشمي,1,0,1,1,1,Soft Decline,No recommendation
+زينب الهاشمي,1,784-6860-5023165-8,37,1,زينب الهاشمي,زينب الهاشمي,1,1,0,0,1,Soft Decline,No recommendation
+إبراهيم العنزي,0,784-4893-1920126-9,39,1,إبراهيم العنزي,إبراهيم العنزي,1,1,1,0,0,Soft Decline,Financial counseling
+عبدالرحمن الهاجري,0,784-8854-4149127-2,27,1,عبدالرحمن الهاجري,عبدالرحمن الهاجري,0,0,0,1,1,Approve,Job matching / training
+فاطمة السويدي,1,784-8302-4809678-0,50,1,فاطمة السويدي,فاطمة السويدي,1,1,1,0,1,Soft Decline,No recommendation
+جميلة السويدي,1,784-4935-2612738-6,37,1,جميلة السويدي,جميلة السويدي,1,1,0,1,1,Approve,No recommendation
+فهد العلي,0,784-3194-5963918-5,27,1,فهد العلي,فهد العلي,0,1,0,1,1,Approve,Job matching / training
+شيماء الرشيدي,1,784-4400-3310663-9,46,1,شيماء الرشيدي,شيماء الرشيدي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+أروى التميمي,1,784-2982-8266330-6,60,1,أروى التميمي,أروى التميمي,0,0,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+فاطمة الشامسي,1,784-2242-8502741-8,66,1,فاطمة الشامسي,فاطمة الشامسي,1,0,0,1,1,Strong Approve,Retirement financial assistance
+ليلى الهاشمي,1,784-4195-4720235-3,67,1,ليلى الهاشمي,ليلى الهاشمي,1,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سارة الحمادي,1,784-2375-8497074-4,72,1,سارة الحمادي,سارة الحمادي,1,0,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+شيماء العنزي,1,784-4386-4189179-8,52,1,شيماء العنزي,شيماء العنزي,1,0,1,1,0,Soft Decline,Financial counseling
+فهد الهاشمي,0,784-3046-9176198-1,18,1,فهد الهاشمي,فهد الهاشمي,1,1,0,0,0,Approve,Financial counseling
+بدر الأنصاري,0,784-5053-3655330-3,48,1,بدر الأنصاري,بدر الأنصاري,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+نجلاء الكتبي,1,784-3293-4076584-7,18,1,نجلاء الكتبي,نجلاء الكتبي,1,1,1,0,1,Soft Decline,No recommendation
+أنور الرشيدي,0,784-6389-1311977-9,41,1,أنور الرشيدي,أنور الرشيدي,1,1,0,0,0,Approve,Financial counseling
+علي الرشيدي,0,784-6529-4474555-0,35,1,علي الرشيدي,علي الرشيدي,0,0,1,1,1,Soft Decline,Job matching / training
+سليمان النعيمي,0,784-4800-6436877-7,24,1,سليمان النعيمي,سليمان النعيمي,0,0,1,1,1,Soft Decline,Job matching / training
+راشد الحربي,0,784-2837-6183870-2,51,1,راشد الحربي,راشد الحربي,1,0,0,0,0,Soft Decline,Financial counseling
+إبراهيم الأنصاري,0,784-9910-1403967-6,40,1,إبراهيم الأنصاري,إبراهيم الأنصاري,1,1,0,1,0,Approve,Financial counseling
+سعيد العنزي,0,784-5762-4152177-4,21,1,سعيد العنزي,سعيد العنزي,1,0,1,1,1,Soft Decline,No recommendation
+مازن الشامسي,0,784-3239-7026093-6,73,1,مازن الشامسي,مازن الشامسي,1,0,0,1,1,Strong Approve,Retirement financial assistance
+عبير الزيدي,1,784-4750-7198023-6,53,1,عبير الزيدي,عبير الزيدي,1,1,0,1,0,Approve,Financial counseling
+إبراهيم النعيمي,0,784-8863-3688213-4,53,1,إبراهيم النعيمي,إبراهيم النعيمي,1,0,1,0,1,Reject,No recommendation
+بدر الظاهري,0,784-7321-3817865-1,79,1,بدر الظاهري,بدر الظاهري,1,0,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+أحمد الظاهري,0,784-5100-7796175-6,41,1,أحمد الظاهري,أحمد الظاهري,0,1,0,0,1,Approve,Job matching / training
+سليمان الهاشمي,0,784-9190-1590735-4,68,1,سليمان الهاشمي,سليمان الهاشمي,0,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+هند الكتبي,1,784-4513-7040698-7,22,1,هند الكتبي,هند الكتبي,1,0,0,0,1,Soft Decline,No recommendation
+جاسم الحمادي,0,784-3277-4832747-6,27,1,جاسم الحمادي,جاسم الحمادي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+راشد السويدي,0,784-1685-5699764-4,74,1,راشد السويدي,راشد السويدي,1,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+سارة الشيخ,1,784-1488-9659511-9,51,1,سارة الشيخ,سارة الشيخ,1,0,1,0,1,Reject,No recommendation
+مريم الرشيدي,1,784-3729-1783922-2,50,1,مريم الرشيدي,مريم الرشيدي,1,1,1,0,0,Soft Decline,Financial counseling
+عبدالله القاسمي,0,784-6296-6014117-2,49,1,عبدالله القاسمي,عبدالله القاسمي,1,0,1,0,1,Reject,No recommendation
+عائشة الشيخ,1,784-7391-8481219-0,43,1,عائشة الشيخ,عائشة الشيخ,1,0,1,1,1,Soft Decline,No recommendation
+سارة الشامسي,1,784-7889-4470545-2,31,1,سارة الشامسي,سارة الشامسي,0,0,1,0,1,Soft Decline,Job matching / training
+مازن الرشيدي,0,784-3124-8820116-3,56,1,مازن الرشيدي,مازن الرشيدي,1,0,0,0,0,Soft Decline,Financial counseling
+مريم المهيري,1,784-8473-6745455-0,38,1,مريم المهيري,مريم المهيري,0,1,0,1,1,Approve,Job matching / training
+نجلاء العنزي,1,784-1788-4626459-4,27,1,نجلاء العنزي,نجلاء العنزي,0,0,0,0,1,Soft Decline,Job matching / training
+نجلاء الرشيدي,1,784-2507-9146415-0,51,1,نجلاء الرشيدي,نجلاء الرشيدي,0,0,1,1,1,Soft Decline,Job matching / training
+أمينة الكتبي,1,784-7345-6533671-2,22,1,أمينة الكتبي,أمينة الكتبي,0,0,0,0,1,Soft Decline,Job matching / training
+عبدالرحمن الهاشمي,0,784-3303-9792023-0,30,1,عبدالرحمن الهاشمي,عبدالرحمن الهاشمي,1,1,0,0,1,Soft Decline,No recommendation
+أروى الكتبي,1,784-1597-7874042-8,55,1,أروى الكتبي,أروى الكتبي,1,1,1,0,1,Soft Decline,No recommendation
+سامي الحربي,0,784-3923-3115342-0,48,1,سامي الحربي,سامي الحربي,1,0,1,0,0,Soft Decline,Financial counseling
+بدر الأنصاري,0,784-7284-2418278-3,56,1,بدر الأنصاري,بدر الأنصاري,1,0,1,0,1,Reject,No recommendation
+سليمان الهاشمي,0,784-2196-6286569-3,64,1,سليمان الهاشمي,سليمان الهاشمي,0,0,0,1,1,Strong Approve,Retirement financial assistance
+عمر الشامسي,0,784-4920-3165874-8,49,1,عمر الشامسي,عمر الشامسي,1,0,0,0,1,Soft Decline,No recommendation
+علي الهاشمي,0,784-9501-3057174-4,61,1,علي الهاشمي,علي الهاشمي,0,0,0,0,1,Strong Approve,Retirement financial assistance
+نورة الأنصاري,1,784-8297-8161982-1,34,1,نورة الأنصاري,نورة الأنصاري,0,1,1,1,1,Approve,Job matching / training
+مريم الرشيدي,1,784-1266-4620941-6,51,1,مريم الرشيدي,مريم الرشيدي,1,1,0,1,0,Approve,Financial counseling
+منيرة القاسمي,1,784-4126-5016745-3,24,1,منيرة القاسمي,منيرة القاسمي,1,1,1,0,0,Soft Decline,Financial counseling
+سعود الزيدي,0,784-6867-6071733-2,48,1,سعود الزيدي,سعود الزيدي,1,1,0,1,0,Approve,Financial counseling
+نجلاء السويدي,1,784-6315-1322552-3,49,1,نجلاء السويدي,نجلاء السويدي,0,0,1,1,1,Soft Decline,Job matching / training
+شيماء العنزي,1,784-4472-8344392-0,68,1,شيماء العنزي,شيماء العنزي,1,0,0,1,1,Strong Approve,Retirement financial assistance
+إبراهيم النعيمي,0,784-7546-2448006-8,60,1,إبراهيم النعيمي,إبراهيم النعيمي,0,1,1,0,1,Reject,Retirement financial assistance
+طارق العلي,0,784-1869-9218288-7,63,1,طارق العلي,طارق العلي,1,0,1,1,1,Reject,Retirement financial assistance
+عبدالرحمن الحربي,0,784-8774-4276425-0,49,1,عبدالرحمن الحربي,عبدالرحمن الحربي,0,1,1,0,1,Soft Decline,Job matching / training
+نورة الحربي,1,784-5503-2484357-1,26,1,نورة الحربي,نورة الحربي,1,0,1,0,0,Soft Decline,Financial counseling
+محمد الشيخ,0,784-4964-5346951-7,37,1,محمد الشيخ,محمد الشيخ,0,1,0,0,1,Approve,Job matching / training
+سعود الشيخ,0,784-5919-6429847-7,42,1,سعود الشيخ,سعود الشيخ,1,0,0,1,0,Approve,Financial counseling
+خالد الأنصاري,0,784-9512-4794110-0,18,1,خالد الأنصاري,خالد الأنصاري,1,1,1,1,1,Soft Decline,No recommendation
+ريما الحربي,1,784-7868-7785272-5,56,1,ريما الحربي,ريما الحربي,1,0,0,1,0,Approve,Financial counseling
+جميلة الظاهري,1,784-5200-5835296-1,34,1,جميلة الظاهري,جميلة الظاهري,0,0,1,0,1,Soft Decline,Job matching / training
+خديجة العنزي,1,784-6006-9109360-7,59,1,خديجة العنزي,خديجة العنزي,0,1,0,0,1,Approve,Job matching / training
+محمد الهاجري,0,784-9478-8801863-4,71,1,محمد الهاجري,محمد الهاجري,0,1,0,1,1,Strong Approve,Retirement financial assistance
+ريما الشامسي,1,784-9830-8130420-9,43,1,ريما الشامسي,ريما الشامسي,1,1,1,1,1,Soft Decline,No recommendation
+يوسف الهاجري,0,784-6520-2097114-6,32,1,يوسف الهاجري,يوسف الهاجري,1,1,0,0,1,Soft Decline,No recommendation
+أحمد الحربي,0,784-6492-6774237-3,50,1,أحمد الحربي,أحمد الحربي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+خديجة العلي,1,784-2332-7217730-8,22,1,خديجة العلي,خديجة العلي,0,0,0,0,1,Soft Decline,Job matching / training
+زينب المهيري,1,784-4482-7042975-1,65,1,زينب المهيري,زينب المهيري,1,0,1,0,1,Reject,Retirement financial assistance
+منيرة الكتبي,1,784-1132-8635574-0,74,1,منيرة الكتبي,منيرة الكتبي,1,0,1,1,1,Reject,Retirement financial assistance
+مازن العنزي,0,784-5038-7516244-6,40,1,مازن العنزي,مازن العنزي,1,0,1,1,1,Soft Decline,No recommendation
+عبدالرحمن الشيخ,0,784-9654-7871292-9,42,1,عبدالرحمن الشيخ,عبدالرحمن الشيخ,1,0,0,1,0,Approve,Financial counseling
+ريما الدوسري,1,784-9183-2427677-1,32,1,ريما الدوسري,ريما الدوسري,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+فاطمة الحربي,1,784-1299-9842404-8,32,1,فاطمة الحربي,فاطمة الحربي,1,0,1,0,1,Reject,No recommendation
+لطيفة الظاهري,1,784-1047-2223431-0,50,1,لطيفة الظاهري,لطيفة الظاهري,0,1,0,0,1,Approve,Job matching / training
+عمر الرشيدي,0,784-9106-8144589-2,30,1,عمر الرشيدي,عمر الرشيدي,0,0,1,1,1,Soft Decline,Job matching / training
+أمينة التميمي,1,784-1778-6085182-9,19,1,أمينة التميمي,أمينة التميمي,0,0,1,1,1,Soft Decline,Job matching / training
+عبدالله القاسمي,0,784-8845-6628102-1,39,1,عبدالله القاسمي,عبدالله القاسمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+يوسف الهاشمي,0,784-8331-3333668-1,42,1,يوسف الهاشمي,يوسف الهاشمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+سعيد المهيري,0,784-4629-5767545-2,23,1,سعيد المهيري,سعيد المهيري,1,1,0,1,1,Approve,No recommendation
+مريم التميمي,1,784-7851-7942322-5,31,1,مريم التميمي,مريم التميمي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+فهد الدوسري,0,784-4647-5629348-6,76,1,فهد الدوسري,فهد الدوسري,1,1,1,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+أنور الحربي,0,784-9401-4933681-2,51,1,أنور الحربي,أنور الحربي,1,0,0,1,1,Soft Decline,No recommendation
+سارة الشامسي,1,784-9469-5507001-7,57,1,سارة الشامسي,سارة الشامسي,1,0,0,0,1,Soft Decline,No recommendation
+سامي الظاهري,0,784-5800-2465925-3,50,1,سامي الظاهري,سامي الظاهري,0,0,1,1,1,Soft Decline,Job matching / training
+بدر السويدي,0,784-7549-2322247-0,28,1,بدر السويدي,بدر السويدي,1,1,1,1,1,Soft Decline,No recommendation
+ليلى السويدي,1,784-8982-5997849-1,18,1,ليلى السويدي,ليلى السويدي,1,0,1,0,0,Soft Decline,Financial counseling
+أحمد الدوسري,0,784-6991-3259482-0,64,1,أحمد الدوسري,أحمد الدوسري,1,1,0,1,1,Strong Approve,Retirement financial assistance
+عبدالرحمن الدوسري,0,784-8382-8454673-2,26,1,عبدالرحمن الدوسري,عبدالرحمن الدوسري,1,1,1,1,0,Approve,Financial counseling
+لطيفة الحمادي,1,784-8597-8962713-5,21,1,لطيفة الحمادي,لطيفة الحمادي,0,0,0,1,1,Approve,Job matching / training
+سليمان الرشيدي,0,784-8757-2577014-4,49,1,سليمان الرشيدي,سليمان الرشيدي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+سعود الأنصاري,0,784-8199-5309317-6,37,1,سعود الأنصاري,سعود الأنصاري,0,1,1,1,1,Approve,Job matching / training
+طارق الرشيدي,0,784-8636-4158090-6,33,1,طارق الرشيدي,طارق الرشيدي,0,0,0,1,1,Approve,Job matching / training
+ريما الحربي,1,784-3473-5209927-6,45,1,ريما الحربي,ريما الحربي,1,0,0,1,0,Approve,Financial counseling
+طارق الحربي,0,784-5382-4723699-8,20,1,طارق الحربي,طارق الحربي,1,1,0,1,1,Approve,No recommendation
+نجلاء الهاشمي,1,784-3859-4799317-3,47,1,نجلاء الهاشمي,نجلاء الهاشمي,1,0,1,0,1,Reject,No recommendation
+طارق الهاشمي,0,784-1263-2233956-7,35,0,طارق الهاشمي,طارق الهاشمي,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+أنور الأنصاري,0,784-9035-4678938-6,56,1,أنور الأنصاري,أنور الأنصاري,1,0,0,1,1,Soft Decline,No recommendation
+جميلة السويدي,1,784-4424-9121089-4,22,1,جميلة السويدي,جميلة السويدي,1,1,0,1,1,Approve,No recommendation
+عائشة الكتبي,1,784-7755-5599751-9,23,1,عائشة الكتبي,عائشة الكتبي,1,1,1,1,0,Approve,Financial counseling
+مازن السويدي,0,784-8257-1206545-5,33,1,مازن السويدي,مازن السويدي,1,1,0,1,0,Approve,Financial counseling
+سامي النعيمي,0,784-1018-2412685-6,35,1,سامي النعيمي,سامي النعيمي,0,0,0,1,1,Approve,Job matching / training
+أمينة التميمي,1,784-6346-5949356-7,38,1,أمينة التميمي,أمينة التميمي,1,0,1,1,0,Soft Decline,Financial counseling
+دلال المهيري,1,784-5719-6781561-8,31,1,دلال المهيري,دلال المهيري,1,0,0,0,0,Soft Decline,Financial counseling
+طارق الشيخ,0,784-2163-2251174-6,42,1,طارق الشيخ,طارق الشيخ,1,1,1,0,1,Soft Decline,No recommendation
+يوسف الظاهري,0,784-7235-9733369-3,36,1,يوسف الظاهري,يوسف الظاهري,0,0,0,0,1,Soft Decline,Job matching / training
+علي الحمادي,0,784-6103-7722712-0,58,1,علي الحمادي,علي الحمادي,1,1,1,0,0,Soft Decline,Financial counseling
+عبير العنزي,1,784-7053-9160964-7,61,1,عبير العنزي,عبير العنزي,0,1,1,0,1,Reject,Retirement financial assistance
+فاطمة المنصوري,1,784-8455-3434895-6,76,1,فاطمة المنصوري,فاطمة المنصوري,1,1,1,0,1,Reject,Retirement financial assistance
+سارة الرشيدي,1,784-2073-8040341-4,53,1,سارة الرشيدي,سارة الرشيدي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+نورة الهاجري,1,784-7689-9839514-0,34,1,نورة الهاجري,نورة الهاجري,1,1,1,1,0,Approve,Financial counseling
+أروى القاسمي,1,784-5725-2708171-6,63,1,أروى القاسمي,أروى القاسمي,0,1,0,0,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+أحمد الهاشمي,0,784-5555-8242076-5,49,1,أحمد الهاشمي,أحمد الهاشمي,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+عبدالرحمن العنزي,0,784-4293-6268307-3,59,1,عبدالرحمن العنزي,عبدالرحمن العنزي,1,1,1,1,1,Soft Decline,No recommendation
+يوسف الأنصاري,0,784-3220-9831950-7,58,1,يوسف الأنصاري,يوسف الأنصاري,1,1,0,0,1,Soft Decline,No recommendation
+سامي الشامسي,0,784-5063-3987207-3,49,1,سامي الشامسي,سامي الشامسي,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+سعيد الكتبي,0,784-6746-1278413-7,49,1,سعيد الكتبي,سعيد الكتبي,1,0,1,0,1,Reject,No recommendation
+سليمان الكتبي,0,784-5094-2541399-6,74,1,سليمان الكتبي,سليمان الكتبي,0,1,0,1,0,Strong Approve,"Financial counseling, Retirement financial assistance"
+عبدالله الظاهري,0,784-4614-8493173-1,30,1,عبدالله الظاهري,عبدالله الظاهري,0,1,1,0,0,Approve,"Job matching / training, Financial counseling"
+سارة السويدي,1,784-7112-2941185-0,26,1,سارة السويدي,سارة السويدي,0,0,0,0,0,Approve,"Job matching / training, Financial counseling"
+خالد المهيري,0,784-1269-6652000-7,27,1,خالد المهيري,خالد المهيري,1,0,1,1,1,Soft Decline,No recommendation
+إبراهيم الأنصاري,0,784-9073-8315415-9,38,1,إبراهيم الأنصاري,إبراهيم الأنصاري,0,0,1,1,0,Approve,"Job matching / training, Financial counseling"
+عبدالرحمن السويدي,0,784-2499-7433614-5,38,1,عبدالرحمن السويدي,عبدالرحمن السويدي,0,1,0,1,0,Strong Approve,"Job matching / training, Financial counseling"
+عبدالرحمن الهاجري,0,784-3594-5592844-5,58,1,عبدالرحمن الهاجري,عبدالرحمن الهاجري,0,1,1,1,0,Approve,"Job matching / training, Financial counseling"
+محمد الزيدي,0,784-5302-3344714-2,50,1,محمد الزيدي,محمد الزيدي,0,0,1,0,1,Soft Decline,Job matching / training
+مازن الحربي,0,784-5934-7680432-2,28,1,مازن الحربي,مازن الحربي,0,0,1,1,1,Soft Decline,Job matching / training
+فاطمة القاسمي,1,784-8173-9363232-7,48,1,فاطمة القاسمي,فاطمة القاسمي,1,0,0,1,0,Approve,Financial counseling
+لطيفة الرشيدي,1,784-2810-3111905-3,20,1,لطيفة الرشيدي,لطيفة الرشيدي,0,1,0,0,1,Approve,Job matching / training
+علي التميمي,0,784-3287-6098657-2,45,1,علي التميمي,علي التميمي,1,1,0,1,0,Approve,Financial counseling
+نورة الأنصاري,1,784-9367-9278021-7,48,1,نورة الأنصاري,نورة الأنصاري,0,0,0,1,0,Approve,"Job matching / training, Financial counseling"
+خديجة القاسمي,1,784-5751-4077825-9,27,1,خديجة القاسمي,خديجة القاسمي,0,1,0,0,0,Approve,"Job matching / training, Financial counseling"
+محمد الرشيدي,0,784-9310-3489611-1,28,1,محمد الرشيدي,محمد الرشيدي,0,0,1,0,0,Soft Decline,"Job matching / training, Financial counseling"
+زينب الكتبي,1,784-3254-2855935-8,33,1,زينب الكتبي,زينب الكتبي,1,1,1,0,1,Soft Decline,No recommendation
+نجلاء الهاجري,1,784-3179-9015113-8,42,1,نجلاء الهاجري,نجلاء الهاجري,1,0,0,1,0,Approve,Financial counseling
