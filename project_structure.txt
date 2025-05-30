@@ -1,0 +1,50 @@
+.
+├── agents
+│   ├── data_extraction.py
+│   ├── data_generation.py
+│   ├── eligibility.py
+│   ├── recommendation.py
+│   └── validation.py
+├── all-files.txt
+├── App
+│   ├── app.py
+│   └── new_env
+│       ├── bin
+│       ├── etc
+│       ├── lib
+│       ├── lib64 -> lib
+│       ├── pyvenv.cfg
+│       └── share
+├── Arabic_injesting.py
+├── arabic_ocr_output.txt
+├── data_injesting.py
+├── diagrams
+│   └── architecture.png
+├── docs
+│   └── solution_summary.pdf
+├── main.py
+├── model_download.py
+├── models
+│   └── random_forest_model.pkl
+├── project_structure.txt
+├── rag_app.py
+├── rag_pipeline.py
+├── README.md
+├── requirements.txt
+├── scraping.py
+├── Screenshot from 2025-05-29 21-37-37.png
+├── Semantic_search.py
+├── streamlit_app.py
+├── test_data
+│   ├── Bank-Statement.pdf
+│   ├── confusion_matrix_rf.png
+│   ├── emirates_id.jpg
+│   ├── mock_test_data.csv
+│   ├── mock_test_data_validated.csv
+│   └── Scanned_Resume.png
+├── test_ocr_utils.py
+└── utils
+    ├── data_cleaning.py
+    └── ocr_utils.py
+
+13 directories, 34 files
