@@ -1,1 +1,4 @@
 echo "venv/" >> .gitignore
+/data/
+/vectorstores/
+/test_data/
