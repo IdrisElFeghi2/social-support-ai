@@ -1,4 +1,11 @@
-echo "venv/" >> .gitignore
+# Ignore virtual environments
+venv/
+
+# Ignore data and vectorstore folders recursively
 /data/
-/vectorstores/
-/test_data/
+/vectorstore/
+
+# Ignore all .faiss and .pkl files, even in subfolders
+*.faiss
+*.pkl
+
